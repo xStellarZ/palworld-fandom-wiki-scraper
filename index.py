@@ -19,7 +19,7 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
     executor.map(getPal, pals)
 
 if len(palInfos):
-    filename = "./result/pal.json"
+    filename = "./result/pals.json"
     print(os.path.dirname(filename))
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, "w") as file:
