@@ -1,0 +1,3661 @@
+[
+  {
+    "id": "001",
+    "name": "Lamball",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Wool",
+      "Lamball Mutton"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/47/Lamball.png/revision/latest?cb=20240123163740"
+  },
+  {
+    "id": "002",
+    "name": "Cattiva",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Red Berries"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Cattiva.png/revision/latest?cb=20240123163546"
+  },
+  {
+    "id": "003",
+    "name": "Chikipi",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Egg",
+      "Chikipi Poultry"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e9/Chikipi.png/revision/latest?cb=20240123163515"
+  },
+  {
+    "id": "004",
+    "name": "Lifmunk",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Berry Seeds",
+      "Low Grade Medical Supplies"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Lifmunk.png/revision/latest?cb=20240123163444"
+  },
+  {
+    "id": "005",
+    "name": "Foxparks",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Leather",
+      "Flame Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Foxparks.png/revision/latest?cb=20240123163335"
+  },
+  {
+    "id": "006",
+    "name": "Fuack",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Leather",
+      "Pal Fluids"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Fuack.png/revision/latest?cb=20240123163258"
+  },
+  {
+    "id": "007",
+    "name": "Sparkit",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 1,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/ee/Sparkit.png/revision/latest?cb=20240123163229"
+  },
+  {
+    "id": "008",
+    "name": "Tanzee",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Mushroom"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Tanzee.png/revision/latest?cb=20240123163156"
+  },
+  {
+    "id": "009",
+    "name": "Rooby",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ",
+      "Leather"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e5/Rooby.png/revision/latest/scale-to-width-down/350?cb=20240123163133"
+  },
+  {
+    "id": "010",
+    "name": "Pengullet",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ",
+      "Pal Fluids"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b3/Pengullet.png/revision/latest?cb=20240123162619"
+  },
+  {
+    "id": "011",
+    "name": "Penking",
+    "elements": [
+      "Water",
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 2,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest/scale-to-width-down/350?cb=20240123162544"
+  },
+  {
+    "id": "012",
+    "name": "Jolthog",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 1,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Jolthog.png/revision/latest?cb=20240122143908"
+  },
+  {
+    "id": "012B",
+    "name": "Jolthog Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dc/Jolthog_Cryst.png/revision/latest?cb=20240122140549"
+  },
+  {
+    "id": "013",
+    "name": "Gumoss",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "drops": [
+      "Berry Seeds"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f3/Gumoss.png/revision/latest?cb=20240123165935"
+  },
+  {
+    "id": "014",
+    "name": "Vixy",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Bone"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/79/Vixy.png/revision/latest?cb=20240123170135"
+  },
+  {
+    "id": "015",
+    "name": "Hoocrates",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Fiber"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Hoocrates.png/revision/latest?cb=20240123170255"
+  },
+  {
+    "id": "016",
+    "name": "Teafant",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Teafant.png/revision/latest?cb=20240123170333"
+  },
+  {
+    "id": "017",
+    "name": "Depresso",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Venom Gland"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8b/Depresso.png/revision/latest?cb=20240123165847"
+  },
+  {
+    "id": "018",
+    "name": "Cremis",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Wool"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/96/Cremis.png/revision/latest?cb=20240123170416"
+  },
+  {
+    "id": "019",
+    "name": "Daedream",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Venom Gland"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Daedream.png/revision/latest?cb=20240123170458"
+  },
+  {
+    "id": "020",
+    "name": "Rushoar",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Leather",
+      "Bone"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Rushoar.png/revision/latest?cb=20240123170615"
+  },
+  {
+    "id": "021",
+    "name": "Nox",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Nox.png/revision/latest?cb=20240123170533"
+  },
+  {
+    "id": "022",
+    "name": "Fuddler",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Fuddler.png/revision/latest?cb=20240123175507"
+  },
+  {
+    "id": "023",
+    "name": "Killamari",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Venom Gland"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Killamari.png/revision/latest?cb=20240123181512"
+  },
+  {
+    "id": "024",
+    "name": "Mau",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Gold Coin"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/21/Mau.png/revision/latest?cb=20240122143301"
+  },
+  {
+    "id": "024B",
+    "name": "Mau Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Mau_Cryst.png/revision/latest?cb=20240122142108"
+  },
+  {
+    "id": "025",
+    "name": "Celaray",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/aa/Celaray.png/revision/latest/scale-to-width-down/350?cb=20240123181336"
+  },
+  {
+    "id": "026",
+    "name": "Direhowl",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Gold Coin"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Direhowl.png/revision/latest?cb=20240123181301"
+  },
+  {
+    "id": "027",
+    "name": "Tocotoco",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Gunpowder"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d9/Tocotoco.png/revision/latest?cb=20240123181236"
+  },
+  {
+    "id": "028",
+    "name": "Flopie",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Low Grade Medical Supplies",
+      "Wheat Seeds"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f0/Flopie.png/revision/latest?cb=20240123181203"
+  },
+  {
+    "id": "029",
+    "name": "Mozzarina",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Milk"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Mozzarina.png/revision/latest?cb=20240123181057"
+  },
+  {
+    "id": "030",
+    "name": "Bristla",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Wheat Seeds",
+      "Lettuce Seeds"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 2,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/40/Bristla.png/revision/latest?cb=20240123181033"
+  },
+  {
+    "id": "031",
+    "name": "Gobfin",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 2,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Gobfin.png/revision/latest?cb=20240122145054"
+  },
+  {
+    "id": "031B",
+    "name": "Gobfin Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Gobfin_Ignis.png/revision/latest?cb=20240122145037"
+  },
+  {
+    "id": "032",
+    "name": "Hangyu",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Fiber"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Hangyu.png/revision/latest/scale-to-width-down/321?cb=20240122051703"
+  },
+  {
+    "id": "032B",
+    "name": "Hangyu Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Fiber",
+      "Ice Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/df/Hangyu_Cryst.png/revision/latest?cb=20240122155048"
+  },
+  {
+    "id": "033",
+    "name": "Mossanda",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Mushroom",
+      "Leather",
+      "Tomato Seeds"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b5/Mossanda.png/revision/latest/scale-to-width-down/350?cb=20240122170308"
+  },
+  {
+    "id": "033B",
+    "name": "Mossanda Lux",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Mushroom",
+      "Electric Organ",
+      "Leather"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 2,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4b/Mossanda_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122170350"
+  },
+  {
+    "id": "034",
+    "name": "Woolipop",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Cotton Candy",
+      "High Quality Pal Oil"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0f/Woolipop.png/revision/latest?cb=20240123181007"
+  },
+  {
+    "id": "035",
+    "name": "Caprity",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Red Berries",
+      "Horn"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Caprity.png/revision/latest/scale-to-width-down/350?cb=20240123180701"
+  },
+  {
+    "id": "036",
+    "name": "Melpaca",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Wool",
+      "Leather"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Melpaca.png/revision/latest?cb=20240123180635"
+  },
+  {
+    "id": "037",
+    "name": "Eikthyrdeer",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Horn"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Eikthyrdeer.png/revision/latest/scale-to-width-down/350?cb=20240122183848"
+  },
+  {
+    "id": "037B",
+    "name": "Eikthyrdeer Terra",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Leather",
+      "Horn"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/ac/Eikthyrdeer_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122184647"
+  },
+  {
+    "id": "038",
+    "name": "Nitewing",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Nitewing.png/revision/latest/scale-to-width-down/350?cb=20240123180604"
+  },
+  {
+    "id": "039",
+    "name": "Ribbuny",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Beautiful Flower"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f1/Ribbuny.png/revision/latest?cb=20240123180541"
+  },
+  {
+    "id": "040",
+    "name": "Incineram",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "drops": [
+      "Horn",
+      "Leather"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b1/Incineram.png/revision/latest/scale-to-width-down/350?cb=20240122183815"
+  },
+  {
+    "id": "040B",
+    "name": "Incineram Noct",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Horn",
+      "Leather"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/76/Incineram_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185015"
+  },
+  {
+    "id": "041",
+    "name": "Cinnamoth",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Honey",
+      "Lettuce Seeds",
+      "Wheat Seeds"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Cinnamoth.png/revision/latest?cb=20240123180518"
+  },
+  {
+    "id": "042",
+    "name": "Arsox",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Horn",
+      "Flame Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a4/Arsox.png/revision/latest?cb=20240123180056"
+  },
+  {
+    "id": "043",
+    "name": "Dumud",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Dumud.png/revision/latest?cb=20240123180029"
+  },
+  {
+    "id": "044",
+    "name": "Cawgnito",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Bone",
+      "Venom Gland"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d1/Cawgnito.png/revision/latest?cb=20240123175955"
+  },
+  {
+    "id": "045",
+    "name": "Leezpunk",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4d/Leezpunk.png/revision/latest/scale-to-width-down/350?cb=20240122183738"
+  },
+  {
+    "id": "045B",
+    "name": "Leezpunk Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Leezpunk_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122185128"
+  },
+  {
+    "id": "046",
+    "name": "Loupmoon",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Bone"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Loupmoon.png/revision/latest?cb=20240123175932"
+  },
+  {
+    "id": "047",
+    "name": "Galeclaw",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8a/Galeclaw.png/revision/latest/scale-to-width-down/350?cb=20240123175720"
+  },
+  {
+    "id": "048",
+    "name": "Robinquill",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Wheat Seeds",
+      "Arrow"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 2,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/13/Robinquill.png/revision/latest/scale-to-width-down/350?cb=20240123063928"
+  },
+  {
+    "id": "048B",
+    "name": "Robinquill Terra",
+    "elements": [
+      "Grass",
+      "Ground"
+    ],
+    "drops": [
+      "Wheat Seeds",
+      "Arrow"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 2,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Robinquill_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122185224"
+  },
+  {
+    "id": "049",
+    "name": "Gorirat",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Bone"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8f/Gorirat.png/revision/latest?cb=20240124001220"
+  },
+  {
+    "id": "050",
+    "name": "Beegarde",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Honey"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 1,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/56/Beegarde.png/revision/latest?cb=20240124001139"
+  },
+  {
+    "id": "051",
+    "name": "Elizabee",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Honey"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 2,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 2,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Elizabee.png/revision/latest/scale-to-width-down/350?cb=20240124001045"
+  },
+  {
+    "id": "052",
+    "name": "Grintale",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/09/Grintale.png/revision/latest?cb=20240124000845"
+  },
+  {
+    "id": "053",
+    "name": "Swee",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Wool"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/73/Swee.png/revision/latest?cb=20240124000804"
+  },
+  {
+    "id": "054",
+    "name": "Sweepa",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Wool"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/93/Sweepa.png/revision/latest/scale-to-width-down/350?cb=20240124000541"
+  },
+  {
+    "id": "055",
+    "name": "Chillet",
+    "elements": [
+      "Ice",
+      "Dragon"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 1,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest?cb=20240124000212"
+  },
+  {
+    "id": "056",
+    "name": "Univolt",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Leather",
+      "Electric Organ",
+      "Horn"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 2,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/25/Univolt.png/revision/latest?cb=20240124103319"
+  },
+  {
+    "id": "057",
+    "name": "Foxcicle",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Leather",
+      "Ice Organ"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/7b/Foxcicle.png/revision/latest?cb=20240124103155"
+  },
+  {
+    "id": "058",
+    "name": "Pyrin",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ",
+      "Leather"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/ab/Pyrin.png/revision/latest/scale-to-width-down/350?cb=20240123063856"
+  },
+  {
+    "id": "058B",
+    "name": "Pyrin Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "drops": [
+      "Flame Organ",
+      "Leather"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 1,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Pyrin_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185332"
+  },
+  {
+    "id": "059",
+    "name": "Reindrix",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Leather",
+      "Horn",
+      "Ice Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Reindrix.png/revision/latest/scale-to-width-down/350?cb=20240124103127"
+  },
+  {
+    "id": "060",
+    "name": "Rayhound",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 2,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Rayhound.png/revision/latest?cb=20240124103009"
+  },
+  {
+    "id": "061",
+    "name": "Kitsun",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ",
+      "Leather"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Kitsun.png/revision/latest/scale-to-width-down/350?cb=20240124104452"
+  },
+  {
+    "id": "062",
+    "name": "Dazzi",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 1,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dazzi.png/revision/latest?cb=20240124102802"
+  },
+  {
+    "id": "063",
+    "name": "Lunaris",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Paldium Fragment"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 3,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/ce/Lunaris.png/revision/latest?cb=20240124102710"
+  },
+  {
+    "id": "064",
+    "name": "Dinossom",
+    "elements": [
+      "Grass",
+      "Dragon"
+    ],
+    "drops": [
+      "Wheat Seeds"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dinossom.png/revision/latest/scale-to-width-down/350?cb=20240122181507"
+  },
+  {
+    "id": "064B",
+    "name": "Dinossom Lux",
+    "elements": [
+      "Electric",
+      "Dragon"
+    ],
+    "drops": [
+      "Tomato Seeds"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 2,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185435"
+  },
+  {
+    "id": "065",
+    "name": "Surfent",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 2,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Surfent.png/revision/latest/scale-to-width-down/350?cb=20240122182116"
+  },
+  {
+    "id": "065B",
+    "name": "Surfent Terra",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/63/Surfent_Terra.png/revision/latest?cb=20240122182251"
+  },
+  {
+    "id": "066",
+    "name": "Maraith",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Bone"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/7c/Maraith.png/revision/latest/scale-to-width-down/350?cb=20240124102441"
+  },
+  {
+    "id": "067",
+    "name": "Digtoise",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Ore",
+      "High Quality Pal Oil"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 3,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/98/Digtoise.png/revision/latest/scale-to-width-down/350?cb=20240124102412"
+  },
+  {
+    "id": "068",
+    "name": "Tombat",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Leather"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Tombat.png/revision/latest/scale-to-width-down/350?cb=20240124104318"
+  },
+  {
+    "id": "069",
+    "name": "Lovander",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Mushroom",
+      "Cake",
+      "Suspicious Juice",
+      "Strange Juice"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 1,
+      "medicineProduction": 2,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/af/Lovander.png/revision/latest?cb=20240125041214"
+  },
+  {
+    "id": "070",
+    "name": "Flambelle",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ",
+      "High Quality Pal Oil"
+    ],
+    "foods": 2,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/19/Flambelle.png/revision/latest?cb=20240124101852"
+  },
+  {
+    "id": "071",
+    "name": "Vanwyrm",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "drops": [
+      "Bone",
+      "Gold Coin"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest/scale-to-width-down/350?cb=20240122182701"
+  },
+  {
+    "id": "071B",
+    "name": "Vanwyrm Cryst",
+    "elements": [
+      "Ice",
+      "Dark"
+    ],
+    "drops": [
+      "Bone",
+      "Ice Organ"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122185550"
+  },
+  {
+    "id": "072",
+    "name": "Bushi",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Bone",
+      "Ingot"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 1,
+      "lumbering": 3,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c0/Bushi.png/revision/latest/scale-to-width-down/350?cb=20240124104338"
+  },
+  {
+    "id": "073",
+    "name": "Beakon",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 2,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Beakon.png/revision/latest/scale-to-width-down/350?cb=20240124104253"
+  },
+  {
+    "id": "074",
+    "name": "Ragnahawk",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c3/Ragnahawk.png/revision/latest/scale-to-width-down/350?cb=20240124105350"
+  },
+  {
+    "id": "075",
+    "name": "Katress",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Leather",
+      "Katress Hair"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 2,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8d/Katress.png/revision/latest?cb=20240124102054"
+  },
+  {
+    "id": "076",
+    "name": "Wixen",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 2,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 3,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Wixen.png/revision/latest?cb=20240124102218"
+  },
+  {
+    "id": "077",
+    "name": "Verdash",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Leather",
+      "Bone"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 3,
+      "gathering": 3,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Verdash.png/revision/latest?cb=20240124101557"
+  },
+  {
+    "id": "078",
+    "name": "Vaelet",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Low Grade Medical Supplies",
+      "Tomato Seeds"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 3,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Vaelet.png/revision/latest?cb=20240124101530"
+  },
+  {
+    "id": "079",
+    "name": "Sibelyx",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "High Quality Cloth",
+      "Ice Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 2,
+      "cooling": 2,
+      "transporting": 0,
+      "farming": 1
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Sibelyx.png/revision/latest/scale-to-width-down/350?cb=20240124101500"
+  },
+  {
+    "id": "080",
+    "name": "Elphidran",
+    "elements": [
+      "Dragon"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Elphidran.png/revision/latest/scale-to-width-down/350?cb=20240123121131"
+  },
+  {
+    "id": "080B",
+    "name": "Elphidran Aqua",
+    "elements": [
+      "Dragon",
+      "Water"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 3,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/65/Elphidran_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240125042716"
+  },
+  {
+    "id": "081",
+    "name": "Kelpsea",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 0,
+      "watering": 1,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Kelpsea.png/revision/latest?cb=20240122182549"
+  },
+  {
+    "id": "081B",
+    "name": "Kelpsea Ignis",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 1,
+    "suitability": {
+      "kindling": 1,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Kelpsea_Ignis.png/revision/latest?cb=20240122182408"
+  },
+  {
+    "id": "082",
+    "name": "Azurobe",
+    "elements": [
+      "Water",
+      "Dragon"
+    ],
+    "drops": [
+      "Cloth",
+      "Precious Dragon Stone"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 3,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bc/Azurobe.png/revision/latest/scale-to-width-down/350?cb=20240124101431"
+  },
+  {
+    "id": "083",
+    "name": "Cryolinx",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 3,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Cryolinx.png/revision/latest/scale-to-width-down/350?cb=20240124101403"
+  },
+  {
+    "id": "084",
+    "name": "Blazehowl",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6a/Blazehowl.png/revision/latest/scale-to-width-down/350?cb=20240122182838"
+  },
+  {
+    "id": "084B",
+    "name": "Blazehowl Noct",
+    "elements": [
+      "Fire",
+      "Dark"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185623"
+  },
+  {
+    "id": "085",
+    "name": "Relaxaurus",
+    "elements": [
+      "Dragon",
+      "Water"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 2,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Relaxaurus.png/revision/latest/scale-to-width-down/350?cb=20240122182945"
+  },
+  {
+    "id": "085B",
+    "name": "Relaxaurus Lux",
+    "elements": [
+      "Dragon",
+      "Electric"
+    ],
+    "drops": [
+      "High Quality Pal Oil",
+      "Electric Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 3,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Relaxaurus_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185752"
+  },
+  {
+    "id": "086",
+    "name": "Broncherry",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Broncherry Meat",
+      "Tomato Seeds"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 3,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/81/Broncherry.png/revision/latest/scale-to-width-down/350?cb=20240122183038"
+  },
+  {
+    "id": "086B",
+    "name": "Broncherry Aqua",
+    "elements": [
+      "Grass",
+      "Water"
+    ],
+    "drops": [
+      "Broncherry Meat",
+      "Lettuce Seeds"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 3,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/18/Broncherry_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122134248"
+  },
+  {
+    "id": "087",
+    "name": "Petallia",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Beautiful Flower"
+    ],
+    "foods": 3,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 3,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 2,
+      "cooling": 0,
+      "transporting": 1,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4e/Petallia.png/revision/latest?cb=20240124101336"
+  },
+  {
+    "id": "088",
+    "name": "Reptyro",
+    "elements": [
+      "Fire",
+      "Ground"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 3,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123055942"
+  },
+  {
+    "id": "088B",
+    "name": "Ice Reptyro",
+    "elements": [
+      "Ice",
+      "Ground"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 3,
+      "medicineProduction": 0,
+      "cooling": 3,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/57/Ice_Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123060101"
+  },
+  {
+    "id": "089",
+    "name": "Kingpaca",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Wool"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240122183201"
+  },
+  {
+    "id": "089B",
+    "name": "Ice Kingpaca",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Wool",
+      "Ice Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 3,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bd/Ice_Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240123063144"
+  },
+  {
+    "id": "090",
+    "name": "Mammorest",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "High Quality Pal Oil",
+      "Leather",
+      "Mammorest Meat"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 2,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Mammorest.png/revision/latest/scale-to-width-down/350?cb=20240122183236"
+  },
+  {
+    "id": "090B",
+    "name": "Mammorest Cryst",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "High Quality Pal Oil",
+      "Leather",
+      "Mammorest Meat"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Mammorest_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122190602"
+  },
+  {
+    "id": "091",
+    "name": "Wumpo",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ",
+      "Beautiful Flower"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 3,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 2,
+      "transporting": 4,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9b/Wumpo.png/revision/latest/scale-to-width-down/350?cb=20240122183424"
+  },
+  {
+    "id": "091B",
+    "name": "Wumpo Botan",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Lettuce Seeds",
+      "Tomato Seeds",
+      "Beautiful Flower"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 3,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 4,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Wumpo_Botan.png/revision/latest/scale-to-width-down/350?cb=20240122190707"
+  },
+  {
+    "id": "092",
+    "name": "Warsect",
+    "elements": [
+      "Ground",
+      "Grass"
+    ],
+    "drops": [
+      "Honey"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 1,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 3,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/3a/Warsect.png/revision/latest/scale-to-width-down/350?cb=20240124101144"
+  },
+  {
+    "id": "093",
+    "name": "Fenglope",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Leather",
+      "Horn"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/31/Fenglope.png/revision/latest/scale-to-width-down/350?cb=20240124101043"
+  },
+  {
+    "id": "094",
+    "name": "Felbat",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Cloth"
+    ],
+    "foods": 5,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 3,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c7/Felbat.png/revision/latest?cb=20240123194642"
+  },
+  {
+    "id": "095",
+    "name": "Quivern",
+    "elements": [
+      "Dragon"
+    ],
+    "drops": [
+      "High Quality Pal Oil"
+    ],
+    "foods": 4,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cc/Quivern.png/revision/latest/scale-to-width-down/350?cb=20240123194754"
+  },
+  {
+    "id": "096",
+    "name": "Blazamut",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Coal",
+      "Flame Organ"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 4,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/00/Blazamut.png/revision/latest/scale-to-width-down/350?cb=20240123194911"
+  },
+  {
+    "id": "097",
+    "name": "Helzephyr",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Venom Gland"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Helzephyr.png/revision/latest/scale-to-width-down/350?cb=20240124101016"
+  },
+  {
+    "id": "098",
+    "name": "Astegon",
+    "elements": [
+      "Dragon",
+      "Dark"
+    ],
+    "drops": [
+      "Pal Metal Ingot",
+      "Pure Quartz"
+    ],
+    "foods": 9,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 1,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 4,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/48/Astegon.png/revision/latest/scale-to-width-down/350?cb=20240123195133"
+  },
+  {
+    "id": "099",
+    "name": "Menasting",
+    "elements": [
+      "Dark",
+      "Ground"
+    ],
+    "drops": [
+      "Coal",
+      "Venom Gland"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 3,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Menasting.png/revision/latest?cb=20240124100853"
+  },
+  {
+    "id": "100",
+    "name": "Anubis",
+    "elements": [
+      "Ground"
+    ],
+    "drops": [
+      "Bone"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 4,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 3,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 2,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Anubis.png/revision/latest?cb=20240123194707"
+  },
+  {
+    "id": "101",
+    "name": "Jormuntide",
+    "elements": [
+      "Dragon",
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 4,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/95/Jormuntide.png/revision/latest/scale-to-width-down/350?cb=20240122183458"
+  },
+  {
+    "id": "101B",
+    "name": "Jormuntide Ignis",
+    "elements": [
+      "Dragon",
+      "Fire"
+    ],
+    "drops": [
+      "High Quality Pal Oil",
+      "Flame Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 4,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Jormuntide_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122190807"
+  },
+  {
+    "id": "102",
+    "name": "Suzaku",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/1a/Suzaku.png/revision/latest/scale-to-width-down/350?cb=20240122193643"
+  },
+  {
+    "id": "102B",
+    "name": "Suzaku Aqua",
+    "elements": [
+      "Water"
+    ],
+    "drops": [
+      "Pal Fluids"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 3,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/22/Suzaku_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122190913"
+  },
+  {
+    "id": "103",
+    "name": "Grizzbolt",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ",
+      "Leather"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 3,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Grizzbolt.png/revision/latest/scale-to-width-down/350?cb=20240123195342"
+  },
+  {
+    "id": "104",
+    "name": "Lyleen",
+    "elements": [
+      "Grass"
+    ],
+    "drops": [
+      "Low Grade Medical Supplies",
+      "Beautiful Flower"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 4,
+      "generatingElectricity": 0,
+      "handiwork": 3,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 3,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Lyleen.png/revision/latest/scale-to-width-down/350?cb=20240122193916"
+  },
+  {
+    "id": "104B",
+    "name": "Lyleen Noct",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Low Grade Medical Supplies",
+      "Beautiful Flower"
+    ],
+    "foods": 6,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 3,
+      "gathering": 2,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 3,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Lyleen_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122191031"
+  },
+  {
+    "id": "105",
+    "name": "Faleris",
+    "elements": [
+      "Fire"
+    ],
+    "drops": [
+      "Flame Organ"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 3,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/84/Faleris.png/revision/latest/scale-to-width-down/350?cb=20240124100953"
+  },
+  {
+    "id": "106",
+    "name": "Orserk",
+    "elements": [
+      "Electric"
+    ],
+    "drops": [
+      "Electric Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 4,
+      "handiwork": 2,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 3,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Orserk.png/revision/latest/scale-to-width-down/350?cb=20240124104213"
+  },
+  {
+    "id": "107",
+    "name": "Shadowbeak",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Pal Metal Ingot",
+      "Carbon Fiber"
+    ],
+    "foods": 8,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 1,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/16/Shadowbeak.png/revision/latest/scale-to-width-down/350?cb=20240123195848"
+  },
+  {
+    "id": "108",
+    "name": "Paladius",
+    "elements": [
+      "Neutral"
+    ],
+    "drops": [
+      "Pal Metal Ingot"
+    ],
+    "foods": 9,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b8/Paladius.png/revision/latest/scale-to-width-down/350?cb=20240123200037"
+  },
+  {
+    "id": "109",
+    "name": "Necromus",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Pal Metal Ingot"
+    ],
+    "foods": 9,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 2,
+      "mining": 2,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/20/Necromus.png/revision/latest/scale-to-width-down/350?cb=20240123200106"
+  },
+  {
+    "id": "110",
+    "name": "Frostallion",
+    "elements": [
+      "Ice"
+    ],
+    "drops": [
+      "Ice Organ"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 0,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 4,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4f/Frostallion.png/revision/latest/scale-to-width-down/350?cb=20240123115832"
+  },
+  {
+    "id": "110B",
+    "name": "Frostallion Noct",
+    "elements": [
+      "Dark"
+    ],
+    "drops": [
+      "Pure Quartz"
+    ],
+    "foods": 7,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 4,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Frostallion_Noct.png/revision/latest/scale-to-width-down/350?cb=20240123115344"
+  },
+  {
+    "id": "111",
+    "name": "Jetragon",
+    "elements": [
+      "Dragon"
+    ],
+    "drops": [
+      "Pure Quartz",
+      "Polymer",
+      "Carbon Fiber"
+    ],
+    "foods": 9,
+    "suitability": {
+      "kindling": 0,
+      "watering": 0,
+      "planting": 0,
+      "generatingElectricity": 0,
+      "handiwork": 0,
+      "gathering": 3,
+      "lumbering": 0,
+      "mining": 0,
+      "medicineProduction": 0,
+      "cooling": 0,
+      "transporting": 0,
+      "farming": 0
+    },
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Jetragon.png/revision/latest/scale-to-width-down/350?cb=20240123200132"
+  }
+]
