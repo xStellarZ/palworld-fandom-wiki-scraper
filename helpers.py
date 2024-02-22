@@ -39,7 +39,7 @@ def getPalByName(name: str) -> PalDetail:
         id = stats[1].find_all()[1].text.replace("#", "")
         # elements
         elementsTags: List[Tag] = stats[2].find("div").find_all("a", text=True)
-        elements = pydash.map_(elementsTags, lambda tag: tag.text)
+        elements = pydash.map_(elementsTags, lambda tag: lowercaseFirstLetter(tag.text))
         # drops
         dropsTags: List[Tag] = stats[3].find("div").find_all("a", text=True)
         drops = pydash.map_(dropsTags, lambda tag: tag.text)
@@ -67,6 +67,18 @@ def getPalByName(name: str) -> PalDetail:
                 workSuitabilityDict[suitability] = 0
         # image
         image = html.find("aside").find("figure").find("a").find("img").attrs["src"]
+        # partner skill
+        partnerSkillGroup = html.find("h2", text="Partner Skill").parent
+        partnerSkill = {
+            "name": partnerSkillGroup.find("div", text=True).text,
+            "icon": partnerSkillGroup.find("section")
+            .find("a")
+            .find("img")
+            .attrs["data-src"],
+            "description": partnerSkillGroup.find_all("section")[2]
+            .find_all("div")[-1]
+            .text,
+        }
 
         return {
             "id": id,
@@ -76,6 +88,7 @@ def getPalByName(name: str) -> PalDetail:
             "foods": foods,
             "suitability": workSuitabilityDict,
             "image": image,
+            "partnerSkill": partnerSkill,
         }
     except:
         print("Failed: ", name)

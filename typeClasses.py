@@ -1,6 +1,11 @@
 from typing import TypedDict, List
 
 
+class PalSimple(TypedDict):
+    id: str
+    name: str
+
+
 class Suitability(TypedDict):
     kindling: int
     watering: int
@@ -16,9 +21,10 @@ class Suitability(TypedDict):
     farming: int
 
 
-class PalSimple(TypedDict):
-    id: str
+class PartnerSkill(TypedDict):
     name: str
+    icon: str
+    description: str
 
 
 class PalDetail(TypedDict):
@@ -29,3 +35,4 @@ class PalDetail(TypedDict):
     foods: int
     suitability: Suitability
     image: str
+    partnerSkill: PartnerSkill

@@ -3,7 +3,7 @@
     "id": "001",
     "name": "Lamball",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Wool",
@@ -24,13 +24,18 @@
       "transporting": 1,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/47/Lamball.png/revision/latest?cb=20240123163740"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/47/Lamball.png/revision/latest?cb=20240202133852",
+    "partnerSkill": {
+      "name": "Fluffy Shield",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/4/4b/Defense_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, equips to the player and becomes a shield.Sometimes drops Wool when assigned to Ranch."
+    }
   },
   {
     "id": "002",
     "name": "Cattiva",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Red Berries"
@@ -50,13 +55,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Cattiva.png/revision/latest?cb=20240123163546"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Cattiva.png/revision/latest?cb=20240123163546",
+    "partnerSkill": {
+      "name": "Cat Helper",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "003",
     "name": "Chikipi",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Egg",
@@ -77,13 +87,18 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/e/e9/Chikipi.png/revision/latest?cb=20240123163515"
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e9/Chikipi.png/revision/latest?cb=20240123163515",
+    "partnerSkill": {
+      "name": "Egg Layer",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes lays an Egg when assigned to Ranch."
+    }
   },
   {
     "id": "004",
     "name": "Lifmunk",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Berry Seeds",
@@ -104,13 +119,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Lifmunk.png/revision/latest?cb=20240123163444"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Lifmunk.png/revision/latest?cb=20240123163444",
+    "partnerSkill": {
+      "name": "Lifmunk Recoil",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/6/6e/Gun_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044029",
+      "description": "When activated, leaps into the player's head and uses a submachine gun to follows up player attacks."
+    }
   },
   {
     "id": "005",
     "name": "Foxparks",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Leather",
@@ -131,13 +151,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Foxparks.png/revision/latest?cb=20240123163335"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Foxparks.png/revision/latest?cb=20240123163335",
+    "partnerSkill": {
+      "name": "Huggy Fire",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c3/Helping_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, equips to the player and transforms into a flamethrower."
+    }
   },
   {
     "id": "006",
     "name": "Fuack",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Leather",
@@ -158,13 +183,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Fuack.png/revision/latest?cb=20240123163258"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Fuack.png/revision/latest?cb=20240123163258",
+    "partnerSkill": {
+      "name": "Surfing Slam",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, Fuack body surfs towards an enemy and slams into them."
+    }
   },
   {
     "id": "007",
     "name": "Sparkit",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -184,13 +214,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/e/ee/Sparkit.png/revision/latest?cb=20240123163229"
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/ee/Sparkit.png/revision/latest?cb=20240123163229",
+    "partnerSkill": {
+      "name": "Static Electricity",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/b/b9/Electric_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Electric Pals."
+    }
   },
   {
     "id": "008",
     "name": "Tanzee",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Mushroom"
@@ -210,13 +245,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Tanzee.png/revision/latest?cb=20240123163156"
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Tanzee.png/revision/latest?cb=20240123163156",
+    "partnerSkill": {
+      "name": "Cheery Rifle",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/6/6e/Gun_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044029",
+      "description": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies."
+    }
   },
   {
     "id": "009",
     "name": "Rooby",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ",
@@ -237,14 +277,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/e/e5/Rooby.png/revision/latest/scale-to-width-down/350?cb=20240123163133"
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e5/Rooby.png/revision/latest/scale-to-width-down/350?cb=20240123163133",
+    "partnerSkill": {
+      "name": "Tiny Spark",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7c/Fire_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Fire Pals."
+    }
   },
   {
     "id": "010",
     "name": "Pengullet",
     "elements": [
-      "Water",
-      "Ice"
+      "water",
+      "ice"
     ],
     "drops": [
       "Ice Organ",
@@ -265,17 +310,23 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b3/Pengullet.png/revision/latest?cb=20240123162619"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b3/Pengullet.png/revision/latest?cb=20240123162619",
+    "partnerSkill": {
+      "name": "Pengullet Cannon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c3/Helping_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated."
+    }
   },
   {
     "id": "011",
     "name": "Penking",
     "elements": [
-      "Water",
-      "Ice"
+      "water",
+      "ice"
     ],
     "drops": [
-      "Ice Organ"
+      "Ice Organ",
+      "Penking Plume"
     ],
     "foods": 8,
     "suitability": {
@@ -292,13 +343,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest/scale-to-width-down/350?cb=20240123162544"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest/scale-to-width-down/350?cb=20240123162544",
+    "partnerSkill": {
+      "name": "Brave Sailor",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "When fighting together, Fire Pals drop more items when defeated."
+    }
   },
   {
     "id": "012",
     "name": "Jolthog",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -318,13 +374,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Jolthog.png/revision/latest?cb=20240122143908"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Jolthog.png/revision/latest?cb=20240210111817",
+    "partnerSkill": {
+      "name": "Jolt Bomb",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c3/Helping_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact."
+    }
   },
   {
     "id": "012B",
     "name": "Jolthog Cryst",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Ice Organ"
@@ -344,17 +405,23 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/dc/Jolthog_Cryst.png/revision/latest?cb=20240122140549"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dc/Jolthog_Cryst.png/revision/latest?cb=20240210111838",
+    "partnerSkill": {
+      "name": "Cold Bomb",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c3/Helping_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact."
+    }
   },
   {
     "id": "013",
     "name": "Gumoss",
     "elements": [
-      "Grass",
-      "Ground"
+      "grass",
+      "ground"
     ],
     "drops": [
-      "Berry Seeds"
+      "Berry Seeds",
+      "Gumoss Leaf"
     ],
     "foods": 1,
     "suitability": {
@@ -371,13 +438,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f3/Gumoss.png/revision/latest?cb=20240123165935"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f3/Gumoss.png/revision/latest?cb=20240123165935",
+    "partnerSkill": {
+      "name": "Logging Assistance",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While in team, improves efficiency of cutting trees."
+    }
   },
   {
     "id": "014",
     "name": "Vixy",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather",
@@ -398,16 +470,22 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/79/Vixy.png/revision/latest?cb=20240123170135"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/79/Vixy.png/revision/latest?cb=20240123170135",
+    "partnerSkill": {
+      "name": "Dig Here!",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes digs up items from the ground when assigned to Ranch."
+    }
   },
   {
     "id": "015",
     "name": "Hoocrates",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Fiber"
+      "Fiber",
+      "High Grade Technical Manual"
     ],
     "foods": 3,
     "suitability": {
@@ -424,13 +502,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Hoocrates.png/revision/latest?cb=20240123170255"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Hoocrates.png/revision/latest?cb=20240123170255",
+    "partnerSkill": {
+      "name": "Dark Knowledge",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/3/32/Dark_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192956",
+      "description": "While in team, increases attack power of Dark Pals."
+    }
   },
   {
     "id": "016",
     "name": "Teafant",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -450,13 +533,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Teafant.png/revision/latest?cb=20240123170333"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Teafant.png/revision/latest?cb=20240123170333",
+    "partnerSkill": {
+      "name": "Soothing Shower",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/e2/Health_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, spouts mysterious water that soothes wounds and restores the player's HP."
+    }
   },
   {
     "id": "017",
     "name": "Depresso",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Venom Gland"
@@ -476,13 +564,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/8b/Depresso.png/revision/latest?cb=20240123165847"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8b/Depresso.png/revision/latest?cb=20240123165847",
+    "partnerSkill": {
+      "name": "Caffeine Inoculation",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/2/2d/Buff_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230005",
+      "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase."
+    }
   },
   {
     "id": "018",
     "name": "Cremis",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Wool"
@@ -502,16 +595,22 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/96/Cremis.png/revision/latest?cb=20240123170416"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/96/Cremis.png/revision/latest?cb=20240123170416",
+    "partnerSkill": {
+      "name": "Fluffy Wool",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8d/Neutral_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch."
+    }
   },
   {
     "id": "019",
     "name": "Daedream",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Venom Gland"
+      "Venom Gland",
+      "Small Pal Soul"
     ],
     "foods": 3,
     "suitability": {
@@ -528,15 +627,21 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Daedream.png/revision/latest?cb=20240123170458"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Daedream.png/revision/latest?cb=20240123170458",
+    "partnerSkill": {
+      "name": "Dream Chaser",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/1/12/Shoulder_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012331",
+      "description": "While in team, appears near the player. Follows up player attacks with magic bullets."
+    }
   },
   {
     "id": "020",
     "name": "Rushoar",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
+      "Rushoar Pork",
       "Leather",
       "Bone"
     ],
@@ -555,16 +660,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Rushoar.png/revision/latest?cb=20240123170615"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Rushoar.png/revision/latest?cb=20240123170615",
+    "partnerSkill": {
+      "name": "Hard Head",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Increases efficiency of destroying boulders while mounted."
+    }
   },
   {
     "id": "021",
     "name": "Nox",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Leather"
+      "Leather",
+      "Small Pal Soul"
     ],
     "foods": 2,
     "suitability": {
@@ -581,13 +692,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Nox.png/revision/latest?cb=20240123170533"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Nox.png/revision/latest?cb=20240123170533",
+    "partnerSkill": {
+      "name": "Kuudere",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/0/04/Dark_Damage_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "When fighting together, applies Dark damage to the player's attacks."
+    }
   },
   {
     "id": "022",
     "name": "Fuddler",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
       "Leather"
@@ -607,13 +723,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Fuddler.png/revision/latest?cb=20240123175507"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Fuddler.png/revision/latest?cb=20240123175507",
+    "partnerSkill": {
+      "name": "Ore Detector",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/d/d5/Location_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, generates subtle vibrations to detect nearby ore."
+    }
   },
   {
     "id": "023",
     "name": "Killamari",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Venom Gland"
@@ -633,13 +754,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Killamari.png/revision/latest?cb=20240123181512"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Killamari.png/revision/latest?cb=20240123181512",
+    "partnerSkill": {
+      "name": "Fried Squid",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c0/Glider_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, can be summoned and used instead of a glider.Can float for long periods of time while gliding."
+    }
   },
   {
     "id": "024",
     "name": "Mau",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Gold Coin"
@@ -659,16 +785,22 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/21/Mau.png/revision/latest?cb=20240122143301"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/21/Mau.png/revision/latest?cb=20240122143301",
+    "partnerSkill": {
+      "name": "Gold Digger",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes digs up Gold Coin when assigned to Ranch."
+    }
   },
   {
     "id": "024B",
     "name": "Mau Cryst",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
-      "Ice Organ"
+      "Ice Organ",
+      "Sapphire"
     ],
     "foods": 1,
     "suitability": {
@@ -685,13 +817,18 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Mau_Cryst.png/revision/latest?cb=20240122142108"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Mau_Cryst.png/revision/latest?cb=20240122142108",
+    "partnerSkill": {
+      "name": "Gold Digger",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes digs up Gold Coin when assigned to Ranch."
+    }
   },
   {
     "id": "025",
     "name": "Celaray",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -711,16 +848,22 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/aa/Celaray.png/revision/latest/scale-to-width-down/350?cb=20240123181336"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/aa/Celaray.png/revision/latest/scale-to-width-down/350?cb=20240123181336",
+    "partnerSkill": {
+      "name": "Zephyr Glider",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c0/Glider_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, can be summoned and used instead of a glider.Allows you to move quickly for long periods of time while gliding with this Pal."
+    }
   },
   {
     "id": "026",
     "name": "Direhowl",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather",
+      "Ruby",
       "Gold Coin"
     ],
     "foods": 3,
@@ -738,16 +881,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Direhowl.png/revision/latest?cb=20240123181301"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Direhowl.png/revision/latest?cb=20240123181301",
+    "partnerSkill": {
+      "name": "Direhowl Rider",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Moves slightly faster than most mounts."
+    }
   },
   {
     "id": "027",
     "name": "Tocotoco",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
-      "Gunpowder"
+      "Gunpowder",
+      "Tocotoco Feather"
     ],
     "foods": 2,
     "suitability": {
@@ -764,13 +913,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/d9/Tocotoco.png/revision/latest?cb=20240123181236"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d9/Tocotoco.png/revision/latest?cb=20240123181236",
+    "partnerSkill": {
+      "name": "Eggbomb Launcher",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c3/Helping_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, equips to the player and transforms into an egg launcher."
+    }
   },
   {
     "id": "028",
     "name": "Flopie",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Low Grade Medical Supplies",
@@ -791,15 +945,21 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f0/Flopie.png/revision/latest?cb=20240123181203"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f0/Flopie.png/revision/latest?cb=20240123181203",
+    "partnerSkill": {
+      "name": "Helper Bunny",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/1/12/Shoulder_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012331",
+      "description": "While in team, appears nearby the player. Automatically picks up nearby items."
+    }
   },
   {
     "id": "029",
     "name": "Mozzarina",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
+      "Mozzarina Meat",
       "Milk"
     ],
     "foods": 3,
@@ -817,13 +977,18 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Mozzarina.png/revision/latest?cb=20240123181057"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Mozzarina.png/revision/latest?cb=20240123181057",
+    "partnerSkill": {
+      "name": "Milk Maker",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes produces Milk when assigned to ranch."
+    }
   },
   {
     "id": "030",
     "name": "Bristla",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Wheat Seeds",
@@ -844,13 +1009,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/40/Bristla.png/revision/latest?cb=20240123181033"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/40/Bristla.png/revision/latest?cb=20240123181033",
+    "partnerSkill": {
+      "name": "Princess Gaze",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/82/Grass_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Grass Pals."
+    }
   },
   {
     "id": "031",
     "name": "Gobfin",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -870,13 +1040,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Gobfin.png/revision/latest?cb=20240122145054"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Gobfin.png/revision/latest?cb=20240122145054",
+    "partnerSkill": {
+      "name": "Angry Shark",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power."
+    }
   },
   {
     "id": "031B",
     "name": "Gobfin Ignis",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ"
@@ -896,13 +1071,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Gobfin_Ignis.png/revision/latest?cb=20240122145037"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Gobfin_Ignis.png/revision/latest?cb=20240122145037",
+    "partnerSkill": {
+      "name": "Angry Shark",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power."
+    }
   },
   {
     "id": "032",
     "name": "Hangyu",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
       "Fiber"
@@ -922,13 +1102,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Hangyu.png/revision/latest/scale-to-width-down/321?cb=20240122051703"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6c/Hangyu.png/revision/latest/scale-to-width-down/350?cb=20240207185559",
+    "partnerSkill": {
+      "name": "Flying Trapeze",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c0/Glider_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+    }
   },
   {
     "id": "032B",
     "name": "Hangyu Cryst",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Fiber",
@@ -949,13 +1134,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/df/Hangyu_Cryst.png/revision/latest?cb=20240122155048"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/df/Hangyu_Cryst.png/revision/latest/scale-to-width-down/333?cb=20240207185718",
+    "partnerSkill": {
+      "name": "Winter Trapeze",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c0/Glider_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding."
+    }
   },
   {
     "id": "033",
     "name": "Mossanda",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Mushroom",
@@ -977,13 +1167,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b5/Mossanda.png/revision/latest/scale-to-width-down/350?cb=20240122170308"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b5/Mossanda.png/revision/latest/scale-to-width-down/350?cb=20240122170308",
+    "partnerSkill": {
+      "name": "Grenadier Panda",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+    }
   },
   {
     "id": "033B",
     "name": "Mossanda Lux",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Mushroom",
@@ -1005,13 +1200,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/4b/Mossanda_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122170350"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4b/Mossanda_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122170350",
+    "partnerSkill": {
+      "name": "Plane Partner",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can rapidly fire a grenade launcher while mounted."
+    }
   },
   {
     "id": "034",
     "name": "Woolipop",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Cotton Candy",
@@ -1032,15 +1232,21 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/0/0f/Woolipop.png/revision/latest?cb=20240123181007"
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0f/Woolipop.png/revision/latest?cb=20240123181007",
+    "partnerSkill": {
+      "name": "Candy Pop",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "Sometimes drops Cotton Candy when assigned to ranch."
+    }
   },
   {
     "id": "035",
     "name": "Caprity",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
+      "Caprity Meat",
       "Red Berries",
       "Horn"
     ],
@@ -1059,13 +1265,18 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Caprity.png/revision/latest/scale-to-width-down/350?cb=20240123180701"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Caprity.png/revision/latest/scale-to-width-down/350?cb=20240123180701",
+    "partnerSkill": {
+      "name": "Berry Picker",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes drops Red Berries from its back when assigned to Ranch."
+    }
   },
   {
     "id": "036",
     "name": "Melpaca",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Wool",
@@ -1086,15 +1297,21 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Melpaca.png/revision/latest?cb=20240123180635"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Melpaca.png/revision/latest?cb=20240123180635",
+    "partnerSkill": {
+      "name": "Pacapaca Wool",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Sometimes drops Wool when assigned to Ranch."
+    }
   },
   {
     "id": "037",
     "name": "Eikthyrdeer",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
+      "Eikthyrdeer Venison",
       "Leather",
       "Horn"
     ],
@@ -1113,15 +1330,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Eikthyrdeer.png/revision/latest/scale-to-width-down/350?cb=20240122183848"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/59/Eikthyrdeer.png/revision/latest/scale-to-width-down/350?cb=20240122183848",
+    "partnerSkill": {
+      "name": "Guardian of the Forest",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Can perform a double jump while mounted.Increases efficiency of cutting trees."
+    }
   },
   {
     "id": "037B",
     "name": "Eikthyrdeer Terra",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
+      "Eikthyrdeer Venison",
       "Leather",
       "Horn"
     ],
@@ -1140,13 +1363,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/ac/Eikthyrdeer_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122184647"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/ac/Eikthyrdeer_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122184647",
+    "partnerSkill": {
+      "name": "Guardian of the Golden Forest",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
+    }
   },
   {
     "id": "038",
     "name": "Nitewing",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather"
@@ -1166,13 +1394,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Nitewing.png/revision/latest/scale-to-width-down/350?cb=20240123180604"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bf/Nitewing.png/revision/latest/scale-to-width-down/350?cb=20240123180604",
+    "partnerSkill": {
+      "name": "Travel Companion",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount."
+    }
   },
   {
     "id": "039",
     "name": "Ribbuny",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather",
@@ -1193,14 +1426,19 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f1/Ribbuny.png/revision/latest?cb=20240123180541"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f1/Ribbuny.png/revision/latest?cb=20240123180541",
+    "partnerSkill": {
+      "name": "Skilled Fingers",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5d/Build_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "While in team, increases attack power of Neutral Pals.While at base, increases work efficiency if working at Weapon Workbench."
+    }
   },
   {
     "id": "040",
     "name": "Incineram",
     "elements": [
-      "Fire",
-      "Dark"
+      "fire",
+      "dark"
     ],
     "drops": [
       "Horn",
@@ -1221,13 +1459,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b1/Incineram.png/revision/latest/scale-to-width-down/350?cb=20240122183815"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b1/Incineram.png/revision/latest/scale-to-width-down/350?cb=20240122183815",
+    "partnerSkill": {
+      "name": "Flameclaw Hunter",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+    }
   },
   {
     "id": "040B",
     "name": "Incineram Noct",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Horn",
@@ -1248,13 +1491,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/76/Incineram_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185015"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/76/Incineram_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185015",
+    "partnerSkill": {
+      "name": "Darkclaw Hunter",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+    }
   },
   {
     "id": "041",
     "name": "Cinnamoth",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Honey",
@@ -1276,13 +1524,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Cinnamoth.png/revision/latest?cb=20240123180518"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Cinnamoth.png/revision/latest?cb=20240123180518",
+    "partnerSkill": {
+      "name": "Mysterious Scales",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks target enemy with Poison Fog."
+    }
   },
   {
     "id": "042",
     "name": "Arsox",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Horn",
@@ -1303,15 +1556,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a4/Arsox.png/revision/latest?cb=20240123180056"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a4/Arsox.png/revision/latest?cb=20240123180056",
+    "partnerSkill": {
+      "name": "Warm Body",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Keeps the rider warm in cold environments."
+    }
   },
   {
     "id": "043",
     "name": "Dumud",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
+      "Raw Dumud",
       "High Quality Pal Oil"
     ],
     "foods": 4,
@@ -1329,17 +1588,23 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Dumud.png/revision/latest?cb=20240123180029"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Dumud.png/revision/latest?cb=20240123180029",
+    "partnerSkill": {
+      "name": "Soil Improver",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/6/68/Ground_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Ground Pals."
+    }
   },
   {
     "id": "044",
     "name": "Cawgnito",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Bone",
-      "Venom Gland"
+      "Venom Gland",
+      "Small Pal Soul"
     ],
     "foods": 5,
     "suitability": {
@@ -1356,15 +1621,23 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/d1/Cawgnito.png/revision/latest?cb=20240123175955"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d1/Cawgnito.png/revision/latest?cb=20240123175955",
+    "partnerSkill": {
+      "name": "Telepeck",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Phantom Peck."
+    }
   },
   {
     "id": "045",
     "name": "Leezpunk",
     "elements": [
-      "Dark"
+      "dark"
     ],
-    "drops": [],
+    "drops": [
+      "Copper Key",
+      "Silver Key"
+    ],
     "foods": 3,
     "suitability": {
       "kindling": 0,
@@ -1380,16 +1653,22 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/4d/Leezpunk.png/revision/latest/scale-to-width-down/350?cb=20240122183738"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4d/Leezpunk.png/revision/latest/scale-to-width-down/350?cb=20240122183738",
+    "partnerSkill": {
+      "name": "Sixth Sense",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/d/d5/Location_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, utilizes its sixth sense to detect nearby dungeons."
+    }
   },
   {
     "id": "045B",
     "name": "Leezpunk Ignis",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
-      "Flame Organ"
+      "Flame Organ",
+      "Silver Key"
     ],
     "foods": 3,
     "suitability": {
@@ -1406,13 +1685,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Leezpunk_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122185128"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/ba/Leezpunk_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122185128",
+    "partnerSkill": {
+      "name": "Sixth Sense",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/d/d5/Location_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, utilizes its sixth sense to detect nearby dungeons."
+    }
   },
   {
     "id": "046",
     "name": "Loupmoon",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Bone"
@@ -1432,15 +1716,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Loupmoon.png/revision/latest?cb=20240123175932"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Loupmoon.png/revision/latest?cb=20240123175932",
+    "partnerSkill": {
+      "name": "Claws Glistening in the Dark",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Jumping Claw."
+    }
   },
   {
     "id": "047",
     "name": "Galeclaw",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
+      "Galeclaw Poultry",
       "Leather"
     ],
     "foods": 4,
@@ -1458,13 +1748,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/8a/Galeclaw.png/revision/latest/scale-to-width-down/350?cb=20240123175720"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8a/Galeclaw.png/revision/latest/scale-to-width-down/350?cb=20240123175720",
+    "partnerSkill": {
+      "name": "Galeclaw Rider",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/c/c0/Glider_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal."
+    }
   },
   {
     "id": "048",
     "name": "Robinquill",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Wheat Seeds",
@@ -1485,14 +1780,19 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/13/Robinquill.png/revision/latest/scale-to-width-down/350?cb=20240123063928"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/13/Robinquill.png/revision/latest/scale-to-width-down/350?cb=20240123063928",
+    "partnerSkill": {
+      "name": "Hawk Eye",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While fighting together, allows you to deal more damage to weak points."
+    }
   },
   {
     "id": "048B",
     "name": "Robinquill Terra",
     "elements": [
-      "Grass",
-      "Ground"
+      "grass",
+      "ground"
     ],
     "drops": [
       "Wheat Seeds",
@@ -1513,13 +1813,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Robinquill_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122185224"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Robinquill_Terra.png/revision/latest/scale-to-width-down/350?cb=20240122185224",
+    "partnerSkill": {
+      "name": "Hawk Eye",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While fighting together, allows you to deal more damage to weak points."
+    }
   },
   {
     "id": "049",
     "name": "Gorirat",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather",
@@ -1540,13 +1845,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/8f/Gorirat.png/revision/latest?cb=20240124001220"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8f/Gorirat.png/revision/latest?cb=20240124001220",
+    "partnerSkill": {
+      "name": "Full-power Gorilla Mode",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/2/2d/Buff_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230005",
+      "description": "When activated, unleashes a primal fury that increases Gorirat's attack power."
+    }
   },
   {
     "id": "050",
     "name": "Beegarde",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Honey"
@@ -1566,16 +1876,22 @@
       "transporting": 2,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/56/Beegarde.png/revision/latest?cb=20240124001139"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/56/Beegarde.png/revision/latest?cb=20240124001139",
+    "partnerSkill": {
+      "name": "Worker Bee",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes drops Honey when assigned to Ranch.While in team, Elizabee's stats will be increased."
+    }
   },
   {
     "id": "051",
     "name": "Elizabee",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
-      "Honey"
+      "Honey",
+      "Elizabee's Staff"
     ],
     "foods": 7,
     "suitability": {
@@ -1592,13 +1908,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Elizabee.png/revision/latest/scale-to-width-down/350?cb=20240124001045"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6d/Elizabee.png/revision/latest/scale-to-width-down/350?cb=20240124001045",
+    "partnerSkill": {
+      "name": "Queen Bee Command",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While fighting together, stats will increase the more Beegarde are in your team."
+    }
   },
   {
     "id": "052",
     "name": "Grintale",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "High Quality Pal Oil"
@@ -1618,13 +1939,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/0/09/Grintale.png/revision/latest?cb=20240124000845"
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/09/Grintale.png/revision/latest?cb=20240124000845",
+    "partnerSkill": {
+      "name": "Plump Body",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Enhances Neutral attacks while mounted."
+    }
   },
   {
     "id": "053",
     "name": "Swee",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Wool"
@@ -1644,13 +1970,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/73/Swee.png/revision/latest?cb=20240124000804"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/73/Swee.png/revision/latest?cb=20240124000804",
+    "partnerSkill": {
+      "name": "Fluffy",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While in team, Sweepa's stats will be increased."
+    }
   },
   {
     "id": "054",
     "name": "Sweepa",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Wool"
@@ -1670,14 +2001,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/93/Sweepa.png/revision/latest/scale-to-width-down/350?cb=20240124000541"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/93/Sweepa.png/revision/latest/scale-to-width-down/350?cb=20240124000541",
+    "partnerSkill": {
+      "name": "King of Fluff",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "While fighting together, stats will increase the more Swee are in your team."
+    }
   },
   {
     "id": "055",
     "name": "Chillet",
     "elements": [
-      "Ice",
-      "Dragon"
+      "ice",
+      "dragon"
     ],
     "drops": [
       "Leather"
@@ -1697,13 +2033,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest?cb=20240124000212"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest?cb=20240124000212",
+    "partnerSkill": {
+      "name": "Wriggling Weasel",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Applies Dragon Dragon damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "056",
     "name": "Univolt",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Leather",
@@ -1725,13 +2066,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/25/Univolt.png/revision/latest?cb=20240124103319"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/25/Univolt.png/revision/latest?cb=20240124103319",
+    "partnerSkill": {
+      "name": "Swift Deity",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "057",
     "name": "Foxcicle",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Leather",
@@ -1752,13 +2098,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/7b/Foxcicle.png/revision/latest?cb=20240124103155"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/7b/Foxcicle.png/revision/latest?cb=20240124103155",
+    "partnerSkill": {
+      "name": "Aurora Guide",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/71/Ice_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in a team, increases attack power of Ice pals."
+    }
   },
   {
     "id": "058",
     "name": "Pyrin",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ",
@@ -1779,14 +2130,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/ab/Pyrin.png/revision/latest/scale-to-width-down/350?cb=20240123063856"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/ab/Pyrin.png/revision/latest/scale-to-width-down/350?cb=20240123063856",
+    "partnerSkill": {
+      "name": "Red Hare",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Applies Fire damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "058B",
     "name": "Pyrin Noct",
     "elements": [
-      "Fire",
-      "Dark"
+      "fire",
+      "dark"
     ],
     "drops": [
       "Flame Organ",
@@ -1807,15 +2163,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Pyrin_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185332"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Pyrin_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185332",
+    "partnerSkill": {
+      "name": "Black Hare",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "059",
     "name": "Reindrix",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
+      "Reindrix Venison",
       "Leather",
       "Horn",
       "Ice Organ"
@@ -1835,13 +2197,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Reindrix.png/revision/latest/scale-to-width-down/350?cb=20240124103127"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/5f/Reindrix.png/revision/latest/scale-to-width-down/350?cb=20240124103127",
+    "partnerSkill": {
+      "name": "Cool Body",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Keeps the rider cool in hot environments."
+    }
   },
   {
     "id": "060",
     "name": "Rayhound",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -1861,13 +2228,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Rayhound.png/revision/latest?cb=20240124103009"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Rayhound.png/revision/latest?cb=20240124103009",
+    "partnerSkill": {
+      "name": "Jumping Force",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can double jump while mounted."
+    }
   },
   {
     "id": "061",
     "name": "Kitsun",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ",
@@ -1888,13 +2260,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Kitsun.png/revision/latest/scale-to-width-down/350?cb=20240124104452"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c4/Kitsun.png/revision/latest/scale-to-width-down/350?cb=20240124104452",
+    "partnerSkill": {
+      "name": "Clear Mind",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Unaffected by the cold or heat while riding this Pal."
+    }
   },
   {
     "id": "062",
     "name": "Dazzi",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -1914,13 +2291,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dazzi.png/revision/latest?cb=20240124102802"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dazzi.png/revision/latest?cb=20240124102802",
+    "partnerSkill": {
+      "name": "Lady of Lightning",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/1/12/Shoulder_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012331",
+      "description": "While in team, appears near the player. Follows up player attacks with lightning bolts."
+    }
   },
   {
     "id": "063",
     "name": "Lunaris",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Paldium Fragment"
@@ -1940,14 +2322,19 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/ce/Lunaris.png/revision/latest?cb=20240124102710"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/ce/Lunaris.png/revision/latest?cb=20240124102710",
+    "partnerSkill": {
+      "name": "Antigravity",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "064",
     "name": "Dinossom",
     "elements": [
-      "Grass",
-      "Dragon"
+      "grass",
+      "dragon"
     ],
     "drops": [
       "Wheat Seeds"
@@ -1967,14 +2354,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dinossom.png/revision/latest/scale-to-width-down/350?cb=20240122181507"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/99/Dinossom.png/revision/latest/scale-to-width-down/350?cb=20240122181507",
+    "partnerSkill": {
+      "name": "Fragrant Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Enchances Grass attacks while mounted."
+    }
   },
   {
     "id": "064B",
     "name": "Dinossom Lux",
     "elements": [
-      "Electric",
-      "Dragon"
+      "electric",
+      "dragon"
     ],
     "drops": [
       "Tomato Seeds"
@@ -1994,13 +2386,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185435"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185435",
+    "partnerSkill": {
+      "name": "Thunder Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Enhances Electric attacks while mounted."
+    }
   },
   {
     "id": "065",
     "name": "Surfent",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -2020,13 +2417,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Surfent.png/revision/latest/scale-to-width-down/350?cb=20240122182116"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f9/Surfent.png/revision/latest/scale-to-width-down/350?cb=20240122182116",
+    "partnerSkill": {
+      "name": "Swift Swimmer",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden to travel on water.While mounted, prevents stamina depletion while moving over water."
+    }
   },
   {
     "id": "065B",
     "name": "Surfent Terra",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
       "Pal Fluids"
@@ -2046,16 +2448,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/63/Surfent_Terra.png/revision/latest?cb=20240122182251"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/63/Surfent_Terra.png/revision/latest?cb=20240122182251",
+    "partnerSkill": {
+      "name": "Sand Swimmer",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden."
+    }
   },
   {
     "id": "066",
     "name": "Maraith",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Bone"
+      "Bone",
+      "Small Pal Soul"
     ],
     "foods": 3,
     "suitability": {
@@ -2072,13 +2480,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/7c/Maraith.png/revision/latest/scale-to-width-down/350?cb=20240124102441"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/7c/Maraith.png/revision/latest/scale-to-width-down/350?cb=20240124102441",
+    "partnerSkill": {
+      "name": "Messenger of Death",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.Applies Dark damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "067",
     "name": "Digtoise",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
       "Ore",
@@ -2099,16 +2512,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/98/Digtoise.png/revision/latest/scale-to-width-down/350?cb=20240124102412"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/98/Digtoise.png/revision/latest/scale-to-width-down/350?cb=20240124102412",
+    "partnerSkill": {
+      "name": "Drill Crusher",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently."
+    }
   },
   {
     "id": "068",
     "name": "Tombat",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Leather"
+      "Leather",
+      "Small Pal Soul"
     ],
     "foods": 5,
     "suitability": {
@@ -2125,19 +2544,25 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Tombat.png/revision/latest/scale-to-width-down/350?cb=20240124104318"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Tombat.png/revision/latest/scale-to-width-down/350?cb=20240124104318",
+    "partnerSkill": {
+      "name": "Ultrasonic Sensor",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/d/d5/Location_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, uses ultrasonic waves to detect the location of nearby Pals."
+    }
   },
   {
     "id": "069",
     "name": "Lovander",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Mushroom",
       "Cake",
       "Suspicious Juice",
-      "Strange Juice"
+      "Strange Juice",
+      "Memory Wiping Medicine"
     ],
     "foods": 5,
     "suitability": {
@@ -2154,13 +2579,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/af/Lovander.png/revision/latest?cb=20240125041214"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/af/Lovander.png/revision/latest?cb=20240125041214",
+    "partnerSkill": {
+      "name": "Heart Drain",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP."
+    }
   },
   {
     "id": "070",
     "name": "Flambelle",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ",
@@ -2181,17 +2611,23 @@
       "transporting": 1,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/19/Flambelle.png/revision/latest?cb=20240124101852"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/19/Flambelle.png/revision/latest?cb=20240124101852",
+    "partnerSkill": {
+      "name": "Magma Tears",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ranch_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Sometimes produces Flame Organ when assigned to Ranch."
+    }
   },
   {
     "id": "071",
     "name": "Vanwyrm",
     "elements": [
-      "Fire",
-      "Dark"
+      "fire",
+      "dark"
     ],
     "drops": [
       "Bone",
+      "Ruby",
       "Gold Coin"
     ],
     "foods": 6,
@@ -2209,18 +2645,24 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest/scale-to-width-down/350?cb=20240122182701"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest/scale-to-width-down/350?cb=20240122182701",
+    "partnerSkill": {
+      "name": "Aerial Marauder",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+    }
   },
   {
     "id": "071B",
     "name": "Vanwyrm Cryst",
     "elements": [
-      "Ice",
-      "Dark"
+      "ice",
+      "dark"
     ],
     "drops": [
       "Bone",
-      "Ice Organ"
+      "Ice Organ",
+      "Sapphire"
     ],
     "foods": 6,
     "suitability": {
@@ -2237,13 +2679,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122185550"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122185550",
+    "partnerSkill": {
+      "name": "Aerial Marauder",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+    }
   },
   {
     "id": "072",
     "name": "Bushi",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Bone",
@@ -2264,13 +2711,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c0/Bushi.png/revision/latest/scale-to-width-down/350?cb=20240124104338"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c0/Bushi.png/revision/latest/scale-to-width-down/350?cb=20240124104338",
+    "partnerSkill": {
+      "name": "Brandish Blade",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Iaigiri."
+    }
   },
   {
     "id": "073",
     "name": "Beakon",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -2290,13 +2742,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Beakon.png/revision/latest/scale-to-width-down/350?cb=20240124104253"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/67/Beakon.png/revision/latest/scale-to-width-down/350?cb=20240124104253",
+    "partnerSkill": {
+      "name": "Thunderous",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "074",
     "name": "Ragnahawk",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ"
@@ -2316,17 +2773,23 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c3/Ragnahawk.png/revision/latest/scale-to-width-down/350?cb=20240124105350"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c3/Ragnahawk.png/revision/latest/scale-to-width-down/350?cb=20240124105350",
+    "partnerSkill": {
+      "name": "Flame Wing",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "075",
     "name": "Katress",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Leather",
-      "Katress Hair"
+      "Katress Hair",
+      "High Grade Technical Manual"
     ],
     "foods": 5,
     "suitability": {
@@ -2343,16 +2806,22 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/8d/Katress.png/revision/latest?cb=20240124102054"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/8d/Katress.png/revision/latest?cb=20240124102054",
+    "partnerSkill": {
+      "name": "Grimoire Collector",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "While fighting together, Neutral Pals drop more items when defeated."
+    }
   },
   {
     "id": "076",
     "name": "Wixen",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
-      "Flame Organ"
+      "Flame Organ",
+      "High Grade Technical Manual"
     ],
     "foods": 5,
     "suitability": {
@@ -2369,13 +2838,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Wixen.png/revision/latest?cb=20240124102218"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Wixen.png/revision/latest?cb=20240124102218",
+    "partnerSkill": {
+      "name": "Lord Fox",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7c/Fire_Damage_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "When fighting together, applies Fire damage to the player's attacks."
+    }
   },
   {
     "id": "077",
     "name": "Verdash",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Leather",
@@ -2396,13 +2870,18 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Verdash.png/revision/latest?cb=20240124101557"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c5/Verdash.png/revision/latest?cb=20240124101557",
+    "partnerSkill": {
+      "name": "Grassland Speedster",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/74/Grass_Damage_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks."
+    }
   },
   {
     "id": "078",
     "name": "Vaelet",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Low Grade Medical Supplies",
@@ -2423,13 +2902,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Vaelet.png/revision/latest?cb=20240124101530"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Vaelet.png/revision/latest?cb=20240124101530",
+    "partnerSkill": {
+      "name": "Purification of Gaia",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "While fighting together, Ground Pals drop more items when defeated."
+    }
   },
   {
     "id": "079",
     "name": "Sibelyx",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "High Quality Cloth",
@@ -2450,13 +2934,18 @@
       "transporting": 0,
       "farming": 1
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Sibelyx.png/revision/latest/scale-to-width-down/350?cb=20240124101500"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cb/Sibelyx.png/revision/latest/scale-to-width-down/350?cb=20240124101500",
+    "partnerSkill": {
+      "name": "Silk Maker",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/5/5e/Slam_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127043821",
+      "description": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch."
+    }
   },
   {
     "id": "080",
     "name": "Elphidran",
     "elements": [
-      "Dragon"
+      "dragon"
     ],
     "drops": [
       "High Quality Pal Oil"
@@ -2476,14 +2965,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Elphidran.png/revision/latest/scale-to-width-down/350?cb=20240123121131"
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Elphidran.png/revision/latest/scale-to-width-down/350?cb=20240123121131",
+    "partnerSkill": {
+      "name": "Amicable Holy Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden as a flying mount. While fighting together, Dark Pals drop more items when defeated."
+    }
   },
   {
     "id": "080B",
     "name": "Elphidran Aqua",
     "elements": [
-      "Dragon",
-      "Water"
+      "dragon",
+      "water"
     ],
     "drops": [
       "High Quality Pal Oil"
@@ -2503,15 +2997,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/65/Elphidran_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240125042716"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/65/Elphidran_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240125042716",
+    "partnerSkill": {
+      "name": "Amicable Water Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden as a flying mount.While fighting together, Fire Pals drop more items when defeated."
+    }
   },
   {
     "id": "081",
     "name": "Kelpsea",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
+      "Raw Kelpsea",
       "Pal Fluids"
     ],
     "foods": 1,
@@ -2529,15 +3029,21 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Kelpsea.png/revision/latest?cb=20240122182549"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/17/Kelpsea.png/revision/latest?cb=20240122182549",
+    "partnerSkill": {
+      "name": "Aqua Spout",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/6/6b/Water_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207225837",
+      "description": "While in team, increases attack power of Water Pals."
+    }
   },
   {
     "id": "081B",
     "name": "Kelpsea Ignis",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
+      "Raw Kelpsea",
       "Flame Organ"
     ],
     "foods": 1,
@@ -2555,14 +3061,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Kelpsea_Ignis.png/revision/latest?cb=20240122182408"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/d7/Kelpsea_Ignis.png/revision/latest?cb=20240122182408",
+    "partnerSkill": {
+      "name": "Lava Spout",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7c/Fire_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "While in team, increases attack power of Fire Pals."
+    }
   },
   {
     "id": "082",
     "name": "Azurobe",
     "elements": [
-      "Water",
-      "Dragon"
+      "water",
+      "dragon"
     ],
     "drops": [
       "Cloth",
@@ -2583,13 +3094,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/bc/Azurobe.png/revision/latest/scale-to-width-down/350?cb=20240124101431"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bc/Azurobe.png/revision/latest/scale-to-width-down/350?cb=20240124101431",
+    "partnerSkill": {
+      "name": "Waterwing Dance",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "083",
     "name": "Cryolinx",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Ice Organ"
@@ -2609,13 +3125,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Cryolinx.png/revision/latest/scale-to-width-down/350?cb=20240124101403"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/89/Cryolinx.png/revision/latest/scale-to-width-down/350?cb=20240124101403",
+    "partnerSkill": {
+      "name": "Dragon Hunter",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "While fighting together, Dragon Pals drop more items when defeated."
+    }
   },
   {
     "id": "084",
     "name": "Blazehowl",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ"
@@ -2635,14 +3156,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/6/6a/Blazehowl.png/revision/latest/scale-to-width-down/350?cb=20240122182838"
+    "image": "https://static.wikia.nocookie.net/palworld/images/6/6a/Blazehowl.png/revision/latest/scale-to-width-down/350?cb=20240122182838",
+    "partnerSkill": {
+      "name": "Hellflame Lion",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated."
+    }
   },
   {
     "id": "084B",
     "name": "Blazehowl Noct",
     "elements": [
-      "Fire",
-      "Dark"
+      "fire",
+      "dark"
     ],
     "drops": [
       "Flame Organ"
@@ -2662,17 +3188,23 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185623"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122185623",
+    "partnerSkill": {
+      "name": "Darkflame Lion",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden.While fighting together, Neutral Pals drop more items when defeated."
+    }
   },
   {
     "id": "085",
     "name": "Relaxaurus",
     "elements": [
-      "Dragon",
-      "Water"
+      "dragon",
+      "water"
     ],
     "drops": [
-      "High Quality Pal Oil"
+      "High Quality Pal Oil",
+      "Ruby"
     ],
     "foods": 7,
     "suitability": {
@@ -2689,18 +3221,24 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Relaxaurus.png/revision/latest/scale-to-width-down/350?cb=20240122182945"
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Relaxaurus.png/revision/latest/scale-to-width-down/350?cb=20240122182945",
+    "partnerSkill": {
+      "name": "Hungry Missile",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+    }
   },
   {
     "id": "085B",
     "name": "Relaxaurus Lux",
     "elements": [
-      "Dragon",
-      "Electric"
+      "dragon",
+      "electric"
     ],
     "drops": [
       "High Quality Pal Oil",
-      "Electric Organ"
+      "Electric Organ",
+      "Sapphire"
     ],
     "foods": 7,
     "suitability": {
@@ -2717,13 +3255,18 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Relaxaurus_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185752"
+    "image": "https://static.wikia.nocookie.net/palworld/images/7/72/Relaxaurus_Lux.png/revision/latest/scale-to-width-down/350?cb=20240122185752",
+    "partnerSkill": {
+      "name": "Missile Party",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+    }
   },
   {
     "id": "086",
     "name": "Broncherry",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Broncherry Meat",
@@ -2744,14 +3287,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/81/Broncherry.png/revision/latest/scale-to-width-down/350?cb=20240122183038"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/81/Broncherry.png/revision/latest/scale-to-width-down/350?cb=20240122183038",
+    "partnerSkill": {
+      "name": "Overaffectionate",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "086B",
     "name": "Broncherry Aqua",
     "elements": [
-      "Grass",
-      "Water"
+      "grass",
+      "water"
     ],
     "drops": [
       "Broncherry Meat",
@@ -2772,13 +3320,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/18/Broncherry_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122134248"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/18/Broncherry_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122134248",
+    "partnerSkill": {
+      "name": "Overaffectionate",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "087",
     "name": "Petallia",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Beautiful Flower"
@@ -2798,14 +3351,19 @@
       "transporting": 1,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/4e/Petallia.png/revision/latest?cb=20240124101336"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4e/Petallia.png/revision/latest?cb=20240124101336",
+    "partnerSkill": {
+      "name": "Blessing of the Flower Spirit",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/e2/Health_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, uses medicinal flowers to restore the player's HP."
+    }
   },
   {
     "id": "088",
     "name": "Reptyro",
     "elements": [
-      "Fire",
-      "Ground"
+      "fire",
+      "ground"
     ],
     "drops": [
       "Flame Organ"
@@ -2825,14 +3383,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123055942"
+    "image": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123055942",
+    "partnerSkill": {
+      "name": "Ore-loving Beast",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+    }
   },
   {
     "id": "088B",
-    "name": "Ice Reptyro",
+    "name": "Reptyro Cryst",
     "elements": [
-      "Ice",
-      "Ground"
+      "ice",
+      "ground"
     ],
     "drops": [
       "Ice Organ"
@@ -2852,13 +3415,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/5/57/Ice_Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123060101"
+    "image": "https://static.wikia.nocookie.net/palworld/images/5/57/Ice_Reptyro.png/revision/latest/scale-to-width-down/350?cb=20240123060101",
+    "partnerSkill": {
+      "name": "Ice-loving Beast",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+    }
   },
   {
     "id": "089",
     "name": "Kingpaca",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Wool"
@@ -2878,13 +3446,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240122183201"
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/0d/Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240122183201",
+    "partnerSkill": {
+      "name": "King of Muscles",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "089B",
-    "name": "Ice Kingpaca",
+    "name": "Kingpaca Cryst",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Wool",
@@ -2905,13 +3478,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/bd/Ice_Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240123063144"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/bd/Ice_Kingpaca.png/revision/latest/scale-to-width-down/350?cb=20240123063144",
+    "partnerSkill": {
+      "name": "King of Muscles",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "090",
     "name": "Mammorest",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "High Quality Pal Oil",
@@ -2933,13 +3511,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Mammorest.png/revision/latest/scale-to-width-down/350?cb=20240122183236"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Mammorest.png/revision/latest/scale-to-width-down/350?cb=20240122183236",
+    "partnerSkill": {
+      "name": "Gaia Crusher",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+    }
   },
   {
     "id": "090B",
     "name": "Mammorest Cryst",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "High Quality Pal Oil",
@@ -2961,13 +3544,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Mammorest_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122190602"
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/34/Mammorest_Cryst.png/revision/latest/scale-to-width-down/350?cb=20240122190602",
+    "partnerSkill": {
+      "name": "Ice Crusher",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+    }
   },
   {
     "id": "091",
     "name": "Wumpo",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
       "Ice Organ",
@@ -2988,13 +3576,18 @@
       "transporting": 4,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/9b/Wumpo.png/revision/latest/scale-to-width-down/350?cb=20240122183424"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9b/Wumpo.png/revision/latest/scale-to-width-down/350?cb=20240122183424",
+    "partnerSkill": {
+      "name": "Guardian of the Snowy Mountain",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "091B",
     "name": "Wumpo Botan",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Lettuce Seeds",
@@ -3016,14 +3609,19 @@
       "transporting": 4,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Wumpo_Botan.png/revision/latest/scale-to-width-down/350?cb=20240122190707"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a2/Wumpo_Botan.png/revision/latest/scale-to-width-down/350?cb=20240122190707",
+    "partnerSkill": {
+      "name": "Guardian of the Grassy Fields",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity."
+    }
   },
   {
     "id": "092",
     "name": "Warsect",
     "elements": [
-      "Ground",
-      "Grass"
+      "ground",
+      "grass"
     ],
     "drops": [
       "Honey"
@@ -3043,13 +3641,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/3/3a/Warsect.png/revision/latest/scale-to-width-down/350?cb=20240124101144"
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/3a/Warsect.png/revision/latest/scale-to-width-down/350?cb=20240124101144",
+    "partnerSkill": {
+      "name": "Hard Armor",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "When fighting together, increases player's defense and applies Fire damage to the player's attacks."
+    }
   },
   {
     "id": "093",
     "name": "Fenglope",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
       "Leather",
@@ -3070,16 +3673,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/3/31/Fenglope.png/revision/latest/scale-to-width-down/350?cb=20240124101043"
+    "image": "https://static.wikia.nocookie.net/palworld/images/3/31/Fenglope.png/revision/latest/scale-to-width-down/350?cb=20240124101043",
+    "partnerSkill": {
+      "name": "Wind and Clouds",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can double jump while mounted."
+    }
   },
   {
     "id": "094",
     "name": "Felbat",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Cloth"
+      "Cloth",
+      "Small Pal Soul"
     ],
     "foods": 5,
     "suitability": {
@@ -3096,13 +3705,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/c7/Felbat.png/revision/latest?cb=20240123194642"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/c7/Felbat.png/revision/latest?cb=20240123194642",
+    "partnerSkill": {
+      "name": "Life Steal",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/ee/Shout_Skill.png/revision/latest/scale-to-width-down/50?cb=20240127044523",
+      "description": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP."
+    }
   },
   {
     "id": "095",
     "name": "Quivern",
     "elements": [
-      "Dragon"
+      "dragon"
     ],
     "drops": [
       "High Quality Pal Oil"
@@ -3122,13 +3736,18 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/c/cc/Quivern.png/revision/latest/scale-to-width-down/350?cb=20240123194754"
+    "image": "https://static.wikia.nocookie.net/palworld/images/c/cc/Quivern.png/revision/latest/scale-to-width-down/350?cb=20240123194754",
+    "partnerSkill": {
+      "name": "Sky Dragon's Affection",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted."
+    }
   },
   {
     "id": "096",
     "name": "Blazamut",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Coal",
@@ -3149,16 +3768,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/0/00/Blazamut.png/revision/latest/scale-to-width-down/350?cb=20240123194911"
+    "image": "https://static.wikia.nocookie.net/palworld/images/0/00/Blazamut.png/revision/latest/scale-to-width-down/350?cb=20240123194911",
+    "partnerSkill": {
+      "name": "Magma Kaiser",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Enchances Fire attacks while mounted."
+    }
   },
   {
     "id": "097",
     "name": "Helzephyr",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Venom Gland"
+      "Venom Gland",
+      "Medium Pal Soul"
     ],
     "foods": 8,
     "suitability": {
@@ -3175,14 +3800,19 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Helzephyr.png/revision/latest/scale-to-width-down/350?cb=20240124101016"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/9d/Helzephyr.png/revision/latest/scale-to-width-down/350?cb=20240124101016",
+    "partnerSkill": {
+      "name": "Wings of Death",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted."
+    }
   },
   {
     "id": "098",
     "name": "Astegon",
     "elements": [
-      "Dragon",
-      "Dark"
+      "dragon",
+      "dark"
     ],
     "drops": [
       "Pal Metal Ingot",
@@ -3203,14 +3833,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/48/Astegon.png/revision/latest/scale-to-width-down/350?cb=20240123195133"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/48/Astegon.png/revision/latest/scale-to-width-down/350?cb=20240123195133",
+    "partnerSkill": {
+      "name": "Black Ankylosaur",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted."
+    }
   },
   {
     "id": "099",
     "name": "Menasting",
     "elements": [
-      "Dark",
-      "Ground"
+      "dark",
+      "ground"
     ],
     "drops": [
       "Coal",
@@ -3231,16 +3866,23 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Menasting.png/revision/latest?cb=20240124100853"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2e/Menasting.png/revision/latest/scale-to-width-down/350?cb=20240201071541",
+    "partnerSkill": {
+      "name": "Steel Scorpion",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated."
+    }
   },
   {
     "id": "100",
     "name": "Anubis",
     "elements": [
-      "Ground"
+      "ground"
     ],
     "drops": [
-      "Bone"
+      "Bone",
+      "Large Pal Soul",
+      "Innovative Technical Manual"
     ],
     "foods": 6,
     "suitability": {
@@ -3257,14 +3899,19 @@
       "transporting": 2,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Anubis.png/revision/latest?cb=20240123194707"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/26/Anubis.png/revision/latest?cb=20240123194707",
+    "partnerSkill": {
+      "name": "Guardian of the Desert",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/af/Ground_Damage_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012331",
+      "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle."
+    }
   },
   {
     "id": "101",
     "name": "Jormuntide",
     "elements": [
-      "Dragon",
-      "Water"
+      "dragon",
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -3284,14 +3931,19 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/9/95/Jormuntide.png/revision/latest/scale-to-width-down/350?cb=20240122183458"
+    "image": "https://static.wikia.nocookie.net/palworld/images/9/95/Jormuntide.png/revision/latest/scale-to-width-down/350?cb=20240122183458",
+    "partnerSkill": {
+      "name": "Stormbringer Sea Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water."
+    }
   },
   {
     "id": "101B",
     "name": "Jormuntide Ignis",
     "elements": [
-      "Dragon",
-      "Fire"
+      "dragon",
+      "fire"
     ],
     "drops": [
       "High Quality Pal Oil",
@@ -3312,13 +3964,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Jormuntide_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122190807"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/f8/Jormuntide_Ignis.png/revision/latest/scale-to-width-down/350?cb=20240122190807",
+    "partnerSkill": {
+      "name": "Stormbringer Lava Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Enhances Fire attacks while mounted."
+    }
   },
   {
     "id": "102",
     "name": "Suzaku",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ"
@@ -3338,13 +3995,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/1a/Suzaku.png/revision/latest/scale-to-width-down/350?cb=20240122193643"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/1a/Suzaku.png/revision/latest/scale-to-width-down/350?cb=20240122193643",
+    "partnerSkill": {
+      "name": "Wings of Flame",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Enhances Fire attacks while mounted."
+    }
   },
   {
     "id": "102B",
     "name": "Suzaku Aqua",
     "elements": [
-      "Water"
+      "water"
     ],
     "drops": [
       "Pal Fluids"
@@ -3364,13 +4026,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/22/Suzaku_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122190913"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/22/Suzaku_Aqua.png/revision/latest/scale-to-width-down/350?cb=20240122190913",
+    "partnerSkill": {
+      "name": "Wings of Water",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted."
+    }
   },
   {
     "id": "103",
     "name": "Grizzbolt",
     "elements": [
-      "Electric"
+      "electric"
     ],
     "drops": [
       "Electric Organ",
@@ -3391,17 +4058,23 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Grizzbolt.png/revision/latest/scale-to-width-down/350?cb=20240123195342"
+    "image": "https://static.wikia.nocookie.net/palworld/images/d/dd/Grizzbolt.png/revision/latest/scale-to-width-down/350?cb=20240123195342",
+    "partnerSkill": {
+      "name": "Yellow Tank",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can rapidly fire a minigun while mounted."
+    }
   },
   {
     "id": "104",
     "name": "Lyleen",
     "elements": [
-      "Grass"
+      "grass"
     ],
     "drops": [
       "Low Grade Medical Supplies",
-      "Beautiful Flower"
+      "Beautiful Flower",
+      "Innovative Technical Manual"
     ],
     "foods": 6,
     "suitability": {
@@ -3418,17 +4091,23 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Lyleen.png/revision/latest/scale-to-width-down/350?cb=20240122193916"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/2b/Lyleen.png/revision/latest/scale-to-width-down/350?cb=20240122193916",
+    "partnerSkill": {
+      "name": "Harvest Goddess",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/e2/Health_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+    }
   },
   {
     "id": "104B",
     "name": "Lyleen Noct",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Low Grade Medical Supplies",
-      "Beautiful Flower"
+      "Beautiful Flower",
+      "Innovative Technical Manual"
     ],
     "foods": 6,
     "suitability": {
@@ -3445,13 +4124,18 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Lyleen_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122191031"
+    "image": "https://static.wikia.nocookie.net/palworld/images/a/a0/Lyleen_Noct.png/revision/latest/scale-to-width-down/350?cb=20240122191031",
+    "partnerSkill": {
+      "name": "Goddess of the Tranquil Light",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/e/e2/Health_Skill.png/revision/latest/scale-to-width-down/50?cb=20240123192957",
+      "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+    }
   },
   {
     "id": "105",
     "name": "Faleris",
     "elements": [
-      "Fire"
+      "fire"
     ],
     "drops": [
       "Flame Organ"
@@ -3471,13 +4155,19 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/8/84/Faleris.png/revision/latest/scale-to-width-down/350?cb=20240124100953"
+    "image": "https://static.wikia.nocookie.net/palworld/images/8/84/Faleris.png/revision/latest/scale-to-width-down/350?cb=20240124100953",
+    "partnerSkill": {
+      "name": "Scorching Predator",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated."
+    }
   },
   {
     "id": "106",
     "name": "Orserk",
     "elements": [
-      "Electric"
+      "dragon",
+      "electric"
     ],
     "drops": [
       "Electric Organ"
@@ -3497,17 +4187,23 @@
       "transporting": 3,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Orserk.png/revision/latest/scale-to-width-down/350?cb=20240124104213"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/14/Orserk.png/revision/latest/scale-to-width-down/350?cb=20240124104213",
+    "partnerSkill": {
+      "name": "Ferocious Thunder Dragon",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/a/a3/Drops_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126012330",
+      "description": "While fighting together, Water Pals drop more items when defeated."
+    }
   },
   {
     "id": "107",
     "name": "Shadowbeak",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
       "Pal Metal Ingot",
-      "Carbon Fiber"
+      "Carbon Fiber",
+      "Innovative Technical Manual"
     ],
     "foods": 8,
     "suitability": {
@@ -3524,16 +4220,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/1/16/Shadowbeak.png/revision/latest/scale-to-width-down/350?cb=20240123195848"
+    "image": "https://static.wikia.nocookie.net/palworld/images/1/16/Shadowbeak.png/revision/latest/scale-to-width-down/350?cb=20240123195848",
+    "partnerSkill": {
+      "name": "Modified DNA",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden as a flying mount. Enhances Dark attacks while mounted."
+    }
   },
   {
     "id": "108",
     "name": "Paladius",
     "elements": [
-      "Neutral"
+      "neutral"
     ],
     "drops": [
-      "Pal Metal Ingot"
+      "Pal Metal Ingot",
+      "Diamond"
     ],
     "foods": 9,
     "suitability": {
@@ -3550,16 +4252,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b8/Paladius.png/revision/latest/scale-to-width-down/350?cb=20240123200037"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b8/Paladius.png/revision/latest/scale-to-width-down/350?cb=20240123200037",
+    "partnerSkill": {
+      "name": "Holy Knight of the Firmament",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can triple jump while mounted."
+    }
   },
   {
     "id": "109",
     "name": "Necromus",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Pal Metal Ingot"
+      "Pal Metal Ingot",
+      "Large Pal Soul"
     ],
     "foods": 9,
     "suitability": {
@@ -3576,16 +4284,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/2/20/Necromus.png/revision/latest/scale-to-width-down/350?cb=20240123200106"
+    "image": "https://static.wikia.nocookie.net/palworld/images/2/20/Necromus.png/revision/latest/scale-to-width-down/350?cb=20240123200106",
+    "partnerSkill": {
+      "name": "Dark Knight of the Abyss",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/8/8a/Riding_Skill.png/revision/latest/scale-to-width-down/50?cb=20240126011156",
+      "description": "Can be ridden. Can double jump while mounted."
+    }
   },
   {
     "id": "110",
     "name": "Frostallion",
     "elements": [
-      "Ice"
+      "ice"
     ],
     "drops": [
-      "Ice Organ"
+      "Ice Organ",
+      "Diamond"
     ],
     "foods": 7,
     "suitability": {
@@ -3602,16 +4316,22 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/4/4f/Frostallion.png/revision/latest/scale-to-width-down/350?cb=20240123115832"
+    "image": "https://static.wikia.nocookie.net/palworld/images/4/4f/Frostallion.png/revision/latest/scale-to-width-down/350?cb=20240123115832",
+    "partnerSkill": {
+      "name": "Ice Steed",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted."
+    }
   },
   {
     "id": "110B",
     "name": "Frostallion Noct",
     "elements": [
-      "Dark"
+      "dark"
     ],
     "drops": [
-      "Pure Quartz"
+      "Pure Quartz",
+      "Large Pal Soul"
     ],
     "foods": 7,
     "suitability": {
@@ -3628,18 +4348,24 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Frostallion_Noct.png/revision/latest/scale-to-width-down/350?cb=20240123115344"
+    "image": "https://static.wikia.nocookie.net/palworld/images/b/b7/Frostallion_Noct.png/revision/latest/scale-to-width-down/350?cb=20240123115344",
+    "partnerSkill": {
+      "name": "Black Steed",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted."
+    }
   },
   {
     "id": "111",
     "name": "Jetragon",
     "elements": [
-      "Dragon"
+      "dragon"
     ],
     "drops": [
       "Pure Quartz",
       "Polymer",
-      "Carbon Fiber"
+      "Carbon Fiber",
+      "Diamond"
     ],
     "foods": 9,
     "suitability": {
@@ -3656,6 +4382,11 @@
       "transporting": 0,
       "farming": 0
     },
-    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Jetragon.png/revision/latest/scale-to-width-down/350?cb=20240123200132"
+    "image": "https://static.wikia.nocookie.net/palworld/images/f/fd/Jetragon.png/revision/latest/scale-to-width-down/350?cb=20240123200132",
+    "partnerSkill": {
+      "name": "Aerial Missile",
+      "icon": "https://static.wikia.nocookie.net/palworld/images/7/7d/Flying_Skill.png/revision/latest/scale-to-width-down/50?cb=20240207230040",
+      "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted."
+    }
   }
 ]
