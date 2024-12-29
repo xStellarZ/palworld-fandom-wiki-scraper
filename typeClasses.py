@@ -7,18 +7,9 @@ class PalSimple(TypedDict):
 
 
 class Suitability(TypedDict):
-    kindling: int
-    watering: int
-    planting: int
-    generatingElectricity: int
-    handiwork: int
-    gathering: int
-    lumbering: int
-    mining: int
-    medicineProduction: int
-    cooling: int
-    transporting: int
-    farming: int
+    type: str
+    image: str
+    level: int
 
 
 class PartnerSkill(TypedDict):
@@ -27,12 +18,30 @@ class PartnerSkill(TypedDict):
     description: str
 
 
-class PalDetail(TypedDict):
-    id: str
+class Elements(TypedDict):
     name: str
-    elements: List[str]
-    drops: List[str]
-    foods: int
-    suitability: Suitability
     image: str
-    partnerSkill: PartnerSkill
+
+
+class Skills(TypedDict):
+    level: int
+    name: str
+    type: str
+    cooldown: int
+    power: int
+    description: str
+
+
+class PalDetail(TypedDict):
+    id: int
+    key: str
+    image: str
+    name: str
+    wiki: str
+    types: List[Elements]
+    imageWiki: str
+    suitability: List[Suitability]
+    drops: List[str]
+    aura: PartnerSkill
+    description: str
+    skills: List[Skills]
