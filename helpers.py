@@ -58,7 +58,7 @@ def getPalByName(name: str, id: int) -> PalDetail:
         name = html.find("span", class_="mw-page-title-main").text
 
         # wiki
-        wiki = URL + "/" + name
+        wiki = (URL + "/" + name).replace(" ", "_")
 
         # key
         stats = html.find("h2", text="Stats").parent.findAll(recursive=False)
@@ -87,7 +87,7 @@ def getPalByName(name: str, id: int) -> PalDetail:
         if drops_parent:
             drops_div = drops_parent.find("div")  # Find the div inside the parent
             if drops_div:
-                dropsTags = drops_div.find_all("a", text=True)
+                dropsTags = drops_div.find_all(["a", "span"], text=True)
             else:
                 dropsTags = []
         else:

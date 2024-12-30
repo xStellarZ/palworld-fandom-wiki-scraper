@@ -521,7 +521,7 @@
     "key": "005B",
     "image": "/public/images/paldeck/005B.png",
     "name": "Foxparks Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Foxparks Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Foxparks_Cryst",
     "types": [
       {
         "name": "ice",
@@ -1248,7 +1248,7 @@
     "key": "012B",
     "image": "/public/images/paldeck/012B.png",
     "name": "Jolthog Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Jolthog Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Jolthog_Cryst",
     "types": [
       {
         "name": "ice",
@@ -2435,7 +2435,7 @@
     "key": "024B",
     "image": "/public/images/paldeck/024B.png",
     "name": "Mau Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Mau Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Mau_Cryst",
     "types": [
       {
         "name": "ice",
@@ -3198,7 +3198,7 @@
     "key": "031B",
     "image": "/public/images/paldeck/031B.png",
     "name": "Gobfin Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Gobfin Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Gobfin_Ignis",
     "types": [
       {
         "name": "fire",
@@ -3392,7 +3392,7 @@
     "key": "032B",
     "image": "/public/images/paldeck/032B.png",
     "name": "Hangyu Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Hangyu Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Hangyu_Cryst",
     "types": [
       {
         "name": "ice",
@@ -3599,7 +3599,7 @@
     "key": "033B",
     "image": "/public/images/paldeck/033B.png",
     "name": "Mossanda Lux",
-    "wiki": "https://palworld.fandom.com/wiki/Mossanda Lux",
+    "wiki": "https://palworld.fandom.com/wiki/Mossanda_Lux",
     "types": [
       {
         "name": "electric",
@@ -3885,7 +3885,7 @@
     "key": "035B",
     "image": "/public/images/paldeck/035B.png",
     "name": "Caprity Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Caprity Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Caprity_Noct",
     "types": [
       {
         "name": "dark",
@@ -4100,7 +4100,7 @@
     "key": "037B",
     "image": "/public/images/paldeck/037B.png",
     "name": "Eikthyrdeer Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer_Terra",
     "types": [
       {
         "name": "ground",
@@ -4124,7 +4124,7 @@
       "name": "guardian_of_the_golden_forest",
       "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
     },
-    "description": "The individual with the hardest horns becomes the leader. Once the horns are lost, so too is the leadership status. It leaves the herd admist farewell glances and quietly returns to the earth.",
+    "description": "The individual with the hardest horns becomes the leader. Once the horns are lost, so too is the leadership status. It leaves the herd amidst farewell glances and quietly returns to the earth.",
     "skills": [
       {
         "level": 1,
@@ -4374,7 +4374,7 @@
     "key": "039B",
     "image": "/public/images/paldeck/039B.png",
     "name": "Ribbuny Botan",
-    "wiki": "https://palworld.fandom.com/wiki/Ribbuny Botan",
+    "wiki": "https://palworld.fandom.com/wiki/Ribbuny_Botan",
     "types": [
       {
         "name": "grass",
@@ -4406,11 +4406,13 @@
     ],
     "drops": [
       "leather",
-      "beautiful_flower"
+      "beautiful_flower",
+      "ribbuny_ribbon",
+      "potato_seeds"
     ],
     "aura": {
       "name": "grass_weaver",
-      "description": "While in team, increases attack power of\nGrass\nPals.\nWhile at a base, increases the work effiency if working at\nWeapon Workbench\n."
+      "description": "While in team, increases attack power of\nGrass\nPals.\nWhile at a base, increases the work efficiency if working at\nWeapon Workbench\n."
     },
     "description": "Always wears a cheerful smile.Sometimes, thanks to  Cattiva's pranks, they end up tangled in tentacles and have to fight their way out!Even in tough situations, they keep smiling cheerfully.",
     "skills": []
@@ -4527,7 +4529,7 @@
     "key": "040B",
     "image": "/public/images/paldeck/040B.png",
     "name": "Incineram Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Incineram Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Incineram_Noct",
     "types": [
       {
         "name": "dark",
@@ -5102,7 +5104,7 @@
     "key": "045B",
     "image": "/public/images/paldeck/045B.png",
     "name": "Leezpunk Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Leezpunk Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Leezpunk_Ignis",
     "types": [
       {
         "name": "fire",
@@ -5292,7 +5294,7 @@
     "key": "046B",
     "image": "/public/images/paldeck/046B.png",
     "name": "Loupmoon Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Loupmoon Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Loupmoon_Cryst",
     "types": [
       {
         "name": "ice",
@@ -5528,7 +5530,7 @@
     "key": "048B",
     "image": "/public/images/paldeck/048B.png",
     "name": "Robinquill Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Robinquill Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
     "types": [
       {
         "name": "grass",
@@ -5738,7 +5740,7 @@
     "key": "049B",
     "image": "/public/images/paldeck/049B.png",
     "name": "Gorirat Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Gorirat Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Gorirat_Terra",
     "types": [
       {
         "name": "ground",
@@ -5771,7 +5773,7 @@
       "name": "full-power_gorilla_mode",
       "description": "When activated, unleashes a primal fury that increases Gorirat Terra's attack power."
     },
-    "description": "It communicates with its friends through rhytmic tapping on the ground.\nStronger than Gorirat. \n\nIf every Gorirat Terra hit the ground at the same time, the island would sink in 1 second.",
+    "description": "It communicates with its friends through rhythmic tapping on the ground.\nStronger than Gorirat. \n\nIf every Gorirat Terra hit the ground at the same time, the island would sink in 1 second.",
     "skills": [
       {
         "level": 1,
@@ -6436,7 +6438,7 @@
     "key": "055B",
     "image": "/public/images/paldeck/055B.png",
     "name": "Chillet Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Chillet Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Chillet_Ignis",
     "types": [
       {
         "name": "fire",
@@ -6562,7 +6564,7 @@
       "name": "swift_deity",
       "description": "Can be ridden. Applies Electric damage to the player's attacks while mounted."
     },
-    "description": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\nHowever, after witnesses osberved one die from a lightning strike, its reverence faded, and it quite literally fell into the role of a workhorse.",
+    "description": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\nHowever, after witnesses observed one die from a lightning strike, its reverence faded, and it quite literally fell into the role of a workhorse.",
     "skills": [
       {
         "level": 1,
@@ -6808,7 +6810,7 @@
     "key": "058B",
     "image": "/public/images/paldeck/058B.png",
     "name": "Pyrin Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Pyrin Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Pyrin_Noct",
     "types": [
       {
         "name": "fire",
@@ -7175,7 +7177,7 @@
     "key": "061B",
     "image": "/public/images/paldeck/061B.png",
     "name": "Kitsun Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Kitsun Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Kitsun_Noct",
     "types": [
       {
         "name": "dark",
@@ -7192,13 +7194,14 @@
     ],
     "drops": [
       "flame_organ",
-      "leather"
+      "leather",
+      "dark_fragment"
     ],
     "aura": {
       "name": "fogged_mind",
       "description": "Can be ridden.\nApplies\nDark\ndamage to the player's attacks while mounted."
     },
-    "description": "Despite its appearence, Kitsun Noct is extremely sensitive and will flee into a cave when spooked.It has become quite gloomy from being a shut-in for too long.",
+    "description": "Despite its appearance, Kitsun Noct is extremely sensitive and will flee into a cave when spooked.It has become quite gloomy from being a shut-in for too long.",
     "skills": []
   },
   {
@@ -7304,7 +7307,7 @@
     "key": "062B",
     "image": "/public/images/paldeck/062B.png",
     "name": "Dazzi Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Dazzi Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Dazzi_Noct",
     "types": [
       {
         "name": "dark",
@@ -7340,7 +7343,8 @@
     ],
     "drops": [
       "electric_organ",
-      "dazzi_cloud"
+      "dazzi_cloud",
+      "dark_fragment"
     ],
     "aura": {
       "name": "lady_of_dark_lightning",
@@ -7480,9 +7484,9 @@
     ],
     "aura": {
       "name": "fragrant_dragon",
-      "description": "Can be ridden.\nEnchances Grass attacks while mounted."
+      "description": "Can be ridden.\nEnhances Grass attacks while mounted."
     },
-    "description": "A Pal who once angered cannot be pacified. It rages on and on like an inferno. The prahse \"step on a Dinossom's tail\" has come to mean enraging someone.",
+    "description": "A Pal who, once angered, cannot be pacified. It rages on and on like an inferno. The phrase \"step on a Dinossom's tail\" has come to mean enraging someone.",
     "skills": [
       {
         "level": 1,
@@ -7547,7 +7551,7 @@
     "key": "064B",
     "image": "/public/images/paldeck/064B.png",
     "name": "Dinossom Lux",
-    "wiki": "https://palworld.fandom.com/wiki/Dinossom Lux",
+    "wiki": "https://palworld.fandom.com/wiki/Dinossom_Lux",
     "types": [
       {
         "name": "electric",
@@ -7730,7 +7734,7 @@
     "key": "065B",
     "image": "/public/images/paldeck/065B.png",
     "name": "Surfent Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Surfent Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Surfent_Terra",
     "types": [
       {
         "name": "ground",
@@ -7845,7 +7849,7 @@
       "name": "messenger_of_death",
       "description": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted."
     },
-    "description": "It relishes the peculiar scent living things give off when they are near death. If a Mariath has taken a liking to you. It is safe to assume that is why.",
+    "description": "It relishes the peculiar scent living things give off when they are near death. If a Maraith has taken a liking to you, it is safe to assume that is why.",
     "skills": [
       {
         "level": 1,
@@ -8403,7 +8407,7 @@
     "key": "071B",
     "image": "/public/images/paldeck/071B.png",
     "name": "Vanwyrm Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Vanwyrm Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Vanwyrm_Cryst",
     "types": [
       {
         "name": "ice",
@@ -8609,7 +8613,7 @@
     "key": "072B",
     "image": "/public/images/paldeck/072B.png",
     "name": "Bushi Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Bushi Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Bushi_Noct",
     "types": [
       {
         "name": "fire",
@@ -8953,7 +8957,7 @@
     "key": "075B",
     "image": "/public/images/paldeck/075B.png",
     "name": "Katress Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Katress Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Katress_Ignis",
     "types": [
       {
         "name": "dark",
@@ -8996,7 +9000,7 @@
       "name": "field_guide",
       "description": "While fighting together, Grass Pals drop more items when defeated."
     },
-    "description": "Due to its upbringing, it no longer cares wheter its food is raw enough.\nThis Pal stopped worrying about those details, and just prefers its food to be as spicy as possible.\n\nNot on good terms with Wixen Noct.",
+    "description": "Due to its upbringing, it no longer cares whether its food is raw enough.\nThis Pal stopped worrying about those details, and just prefers its food to be as spicy as possible.\n\nNot on good terms with Wixen Noct.",
     "skills": []
   },
   {
@@ -9102,7 +9106,7 @@
     "key": "076B",
     "image": "/public/images/paldeck/076B.png",
     "name": "Wixen Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Wixen Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Wixen_Noct",
     "types": [
       {
         "name": "fire",
@@ -9548,7 +9552,7 @@
     "key": "080B",
     "image": "/public/images/paldeck/080B.png",
     "name": "Elphidran Aqua",
-    "wiki": "https://palworld.fandom.com/wiki/Elphidran Aqua",
+    "wiki": "https://palworld.fandom.com/wiki/Elphidran_Aqua",
     "types": [
       {
         "name": "dragon",
@@ -9737,7 +9741,7 @@
     "key": "081B",
     "image": "/public/images/paldeck/081B.png",
     "name": "Kelpsea Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Kelpsea Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Kelpsea_Ignis",
     "types": [
       {
         "name": "fire",
@@ -10116,7 +10120,7 @@
     "key": "084B",
     "image": "/public/images/paldeck/084B.png",
     "name": "Blazehowl Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Blazehowl Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Blazehowl_Noct",
     "types": [
       {
         "name": "fire",
@@ -10309,7 +10313,7 @@
     "key": "085B",
     "image": "/public/images/paldeck/085B.png",
     "name": "Relaxaurus Lux",
-    "wiki": "https://palworld.fandom.com/wiki/Relaxaurus Lux",
+    "wiki": "https://palworld.fandom.com/wiki/Relaxaurus_Lux",
     "types": [
       {
         "name": "dragon",
@@ -10495,7 +10499,7 @@
     "key": "086B",
     "image": "/public/images/paldeck/086B.png",
     "name": "Broncherry Aqua",
-    "wiki": "https://palworld.fandom.com/wiki/Broncherry Aqua",
+    "wiki": "https://palworld.fandom.com/wiki/Broncherry_Aqua",
     "types": [
       {
         "name": "grass",
@@ -10790,7 +10794,7 @@
     "key": "088B",
     "image": "/public/images/paldeck/088B.png",
     "name": "Reptyro Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Reptyro Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Reptyro_Cryst",
     "types": [
       {
         "name": "ice",
@@ -10973,7 +10977,7 @@
     "key": "089B",
     "image": "/public/images/paldeck/089B.png",
     "name": "Kingpaca Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Kingpaca Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Kingpaca_Cryst",
     "types": [
       {
         "name": "ice",
@@ -11165,7 +11169,7 @@
     "key": "090B",
     "image": "/public/images/paldeck/090B.png",
     "name": "Mammorest Cryst",
-    "wiki": "https://palworld.fandom.com/wiki/Mammorest Cryst",
+    "wiki": "https://palworld.fandom.com/wiki/Mammorest_Cryst",
     "types": [
       {
         "name": "ice",
@@ -11367,7 +11371,7 @@
     "key": "091B",
     "image": "/public/images/paldeck/091B.png",
     "name": "Wumpo Botan",
-    "wiki": "https://palworld.fandom.com/wiki/Wumpo Botan",
+    "wiki": "https://palworld.fandom.com/wiki/Wumpo_Botan",
     "types": [
       {
         "name": "grass",
@@ -11577,7 +11581,7 @@
     "key": "092B",
     "image": "/public/images/paldeck/092B.png",
     "name": "Warsect Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Warsect Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Warsect_Terra",
     "types": [
       {
         "name": "ground",
@@ -11895,7 +11899,7 @@
     "key": "095B",
     "image": "/public/images/paldeck/095B.png",
     "name": "Quivern Botan",
-    "wiki": "https://palworld.fandom.com/wiki/Quivern Botan",
+    "wiki": "https://palworld.fandom.com/wiki/Quivern_Botan",
     "types": [
       {
         "name": "dragon",
@@ -11977,7 +11981,7 @@
     ],
     "aura": {
       "name": "magma_kaiser",
-      "description": "Can be ridden. Enchances Fire attacks while mounted."
+      "description": "Can be ridden. Enhances Fire attacks while mounted."
     },
     "description": "Legends say it was born during a volcanic eruption. A strange group even claims that this continent is laid upon the back of a giant Blazamut.",
     "skills": [
@@ -12044,7 +12048,7 @@
     "key": "096B",
     "image": "/public/images/paldeck/096B.png",
     "name": "Blazamut Ryu",
-    "wiki": "https://palworld.fandom.com/wiki/Blazamut Ryu",
+    "wiki": "https://palworld.fandom.com/wiki/Blazamut_Ryu",
     "types": [
       {
         "name": "dragon",
@@ -12173,7 +12177,7 @@
     "key": "097B",
     "image": "/public/images/paldeck/097B.png",
     "name": "Helzephyr Lux",
-    "wiki": "https://palworld.fandom.com/wiki/Helzephyr Lux",
+    "wiki": "https://palworld.fandom.com/wiki/Helzephyr_Lux",
     "types": [
       {
         "name": "dark",
@@ -12407,7 +12411,7 @@
     "key": "099B",
     "image": "/public/images/paldeck/099B.png",
     "name": "Menasting Terra",
-    "wiki": "https://palworld.fandom.com/wiki/Menasting Terra",
+    "wiki": "https://palworld.fandom.com/wiki/Menasting_Terra",
     "types": [
       {
         "name": "ground",
@@ -12633,7 +12637,7 @@
     "key": "101B",
     "image": "/public/images/paldeck/101B.png",
     "name": "Jormuntide Ignis",
-    "wiki": "https://palworld.fandom.com/wiki/Jormuntide Ignis",
+    "wiki": "https://palworld.fandom.com/wiki/Jormuntide_Ignis",
     "types": [
       {
         "name": "dragon",
@@ -12812,7 +12816,7 @@
     "key": "102B",
     "image": "/public/images/paldeck/102B.png",
     "name": "Suzaku Aqua",
-    "wiki": "https://palworld.fandom.com/wiki/Suzaku Aqua",
+    "wiki": "https://palworld.fandom.com/wiki/Suzaku_Aqua",
     "types": [
       {
         "name": "water",
@@ -13114,7 +13118,7 @@
     "key": "104B",
     "image": "/public/images/paldeck/104B.png",
     "name": "Lyleen Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Lyleen Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Lyleen_Noct",
     "types": [
       {
         "name": "dark",
@@ -13305,7 +13309,7 @@
     "key": "105B",
     "image": "/public/images/paldeck/105B.png",
     "name": "Faleris Aqua",
-    "wiki": "https://palworld.fandom.com/wiki/Faleris Aqua",
+    "wiki": "https://palworld.fandom.com/wiki/Faleris_Aqua",
     "types": [
       {
         "name": "water",
@@ -13804,7 +13808,7 @@
     "key": "110B",
     "image": "/public/images/paldeck/110B.png",
     "name": "Frostallion Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Frostallion Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Frostallion_Noct",
     "types": [
       {
         "name": "dark",
@@ -14077,7 +14081,7 @@
     "key": "112B",
     "image": "/public/images/paldeck/112B.png",
     "name": "Bellanoir Libero",
-    "wiki": "https://palworld.fandom.com/wiki/Bellanoir Libero",
+    "wiki": "https://palworld.fandom.com/wiki/Bellanoir_Libero",
     "types": [
       {
         "name": "dark",
@@ -14407,7 +14411,7 @@
         "type": "grass",
         "cooldown": 40,
         "power": 120,
-        "description": "Sprots sharp roots in and around the enemy's location."
+        "description": "Sprouts sharp roots in and around the enemy's location."
       },
       {
         "level": 50,
@@ -14470,7 +14474,7 @@
     "key": "116B",
     "image": "/public/images/paldeck/116B.png",
     "name": "Shroomer Noct",
-    "wiki": "https://palworld.fandom.com/wiki/Shroomer Noct",
+    "wiki": "https://palworld.fandom.com/wiki/Shroomer_Noct",
     "types": [
       {
         "name": "grass",
@@ -14505,13 +14509,14 @@
       }
     ],
     "drops": [
-      "venom_gland"
+      "venom_gland",
+      "mysterious_mushroom"
     ],
     "aura": {
       "name": "swooshy_spores",
       "description": "Can be ridden.\nWhile at a base, its mysterious spores slow the rate at which the SAN value of allies at the base decreases."
     },
-    "description": "The abundance of spores released by this Pal blocks out sunlight.\nSometimes, if Shroomer Noct appears motionsless, it's not because it's mimicking a mushroom, but rather because its own spores don't let it see anything.",
+    "description": "The abundance of spores released by this Pal blocks out sunlight.\nSometimes, if Shroomer Noct appears motionless, it's not because it's mimicking a mushroom, but rather because its own spores don't let it see anything.",
     "skills": []
   },
   {
@@ -14683,7 +14688,7 @@
       "name": "steel_guardian_mode",
       "description": "When activated, a steel resolve increases Knocklem's attack and defense."
     },
-    "description": "Can be disassembled into 215 parts, and even if the parts are scattered, it will reassemble itself and start moving again.\nIf parts from different individuals are mixed it will manfuction due to mistaken identity.",
+    "description": "Can be disassembled into 215 parts, and even if the parts are scattered, it will reassemble itself and start moving again.\nIf parts from different individuals are mixed it will malfunction due to mistaken identity.",
     "skills": []
   },
   {
@@ -14818,6 +14823,7 @@
     ],
     "drops": [
       "gold_coin",
+      "dog_coin",
       "training_manual_(xl)"
     ],
     "aura": {
@@ -14909,7 +14915,9 @@
         "level": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      "meteorite_fragment"
+    ],
     "aura": {
       "name": "meteorite_mania",
       "description": "While in team, increases damage dealt to ores, and it's easier to obtain Meteorite Fragment."
@@ -14995,13 +15003,14 @@
       }
     ],
     "drops": [
+      "meteorite_fragment",
       "high_quality_pal_oil"
     ],
     "aura": {
       "name": "crater_enthusiast",
       "description": "Can be ridden.\nWhile in the team, it's easier to obtain Meteorite Fragment and Pure Quartz."
     },
-    "description": "Consumes information and turns it into energy.Regurarly seems to be sending information to someone.-Hello? What was the message you just sent? I devoured it before checking.",
+    "description": "Consumes information and turns it into energy.Regularly seems to be sending information to someone.-Hello? What was the message you just sent? I devoured it before checking.",
     "skills": [
       {
         "level": 1,
@@ -15077,7 +15086,9 @@
         "level": 1
       }
     ],
-    "drops": [],
+    "drops": [
+      "meteorite_fragment"
+    ],
     "aura": {
       "name": "meteor_wings",
       "description": "Can be ridden as a flying mount.\nGreatly increases movement speed while flying."
@@ -15141,13 +15152,14 @@
       }
     ],
     "drops": [
-      "leather"
+      "leather",
+      "dark_fragment"
     ],
     "aura": {
       "name": "night_dancer",
       "description": "Can be ridden.\nIncreases movement speed while mounted at night."
     },
-    "description": "It takes great pride in its flowing, gorgeous mane.If it finds a split end, it becomes so mortified it can't focuns on running properly.Because static electricity makes its hair frizzy, it avoids  Azurmane at all costs.",
+    "description": "It takes great pride in its flowing, gorgeous mane.If it finds a split end, it becomes so mortified it can't focus on running properly.Because static electricity makes its hair frizzy, it avoids  Azurmane at all costs.",
     "skills": []
   },
   {
@@ -15170,12 +15182,14 @@
         "level": 3
       }
     ],
-    "drops": [],
+    "drops": [
+      "chromite"
+    ],
     "aura": {
       "name": "aegis_shield",
       "description": "Can be ridden.\nIncreases the duration of the shield when using Aegis Charge while mounted."
     },
-    "description": "The metallic components around its neck possess magnetic properties.If the leg pieces get too close, they cling to it.When metal debris builds up on its neck, it grudingly begins cleaning, and grows frustrated when they won't come off easily.",
+    "description": "The metallic components around its neck possess magnetic properties.If the leg pieces get too close, they cling to it.When metal debris builds up on its neck, it grudgingly begins cleaning, and grows frustrated when it won't come off easily.",
     "skills": []
   },
   {
@@ -15204,7 +15218,7 @@
     ],
     "aura": {
       "name": "dig,_dog!_dig!",
-      "description": "When activated, uses its sharp sense of smell to detect nearby Chromite.\nWhile fighting toegether, a large amount of Chromite is obtained."
+      "description": "When activated, uses its sharp sense of smell to detect nearby Chromite.\nWhile fighting together, a large amount of Chromite is obtained."
     },
     "description": "The black flames are only warm to the touch, but anything that remains in contact with them slowly melts from the inside.Hold some cheese above them, and it becomes a true delicacy.",
     "skills": []
@@ -15236,7 +15250,8 @@
     ],
     "drops": [
       "leather",
-      "horn"
+      "horn",
+      "hexolite_quartz"
     ],
     "aura": {
       "name": "blessing_of_purification",
@@ -15265,7 +15280,9 @@
         "level": 1
       }
     ],
-    "drops": [],
+    "drops": [
+      "dark_fragment"
+    ],
     "aura": {
       "name": "masquerade_dance",
       "description": "While in team, the Pals in the team gain more experience points."
@@ -15308,7 +15325,9 @@
         "level": 2
       }
     ],
-    "drops": [],
+    "drops": [
+      "dark_fragment"
+    ],
     "aura": {
       "name": "blade_of_uncontrolled_passion",
       "description": "While in possession, the amount of items obtained from using the\nMeat Cleaver\nincreases."
@@ -15438,7 +15457,8 @@
     ],
     "drops": [
       "low_grade_medical_supplies",
-      "beautiful_flower"
+      "beautiful_flower",
+      "carrot_seeds"
     ],
     "aura": {
       "name": "prayer_for_abundant_harvest",
