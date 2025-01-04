@@ -105,6 +105,7 @@ def getPalByName(name: str, id: int) -> PalDetail:
         workSuitabilityTexts = pydash.map_(
             workSuitability, lambda tag: tag.text.strip()
         )
+
         workSuitabilityDict: Suitability = {}
         suitabilityList = []
         baseImagePath = "/public/images/works/"
@@ -112,7 +113,8 @@ def getPalByName(name: str, id: int) -> PalDetail:
         for text in workSuitabilityTexts:
             splittedText = text.split(" ")
             if splittedText[-1].isdigit():
-                suitability = lowercaseFirstLetter("".join(splittedText[0:-1]))
+                #suitability = lowercaseFirstLetter("".join(splittedText[0:-1]))
+                suitability = "_".join(splittedText[0:-1]).lower()
                 level = int(splittedText[-1])
             else:
                 suitability = lowercaseFirstLetter(text.replace(" ", ""))
